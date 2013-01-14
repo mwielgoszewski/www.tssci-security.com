@@ -1,0 +1,287 @@
+* {
+    border:0;
+    margin:0;
+    padding:0;
+}
+
+#commentlist, .post-list {
+    font-size:.916em;
+    list-style-type:none;
+}
+
+#commentform {
+    margin-left:2em;
+}
+
+#container {
+    overflow:auto;
+    width:100%;
+}
+
+#content {
+    display:inline;
+    float:left;
+    position:relative;
+    width:560px;
+}
+
+#content ul, #content ol {
+    margin:1em 1em 2em 2em;
+}
+
+#content ul li, #content ol li {
+    line-height:1.5em;
+    margin:0 0 .2em 1em;
+}
+
+#mainmenu {
+    margin-bottom:10px;
+}
+
+#mainmenu ul li {
+    display:inline;
+    list-style:none;
+    margin-right:15px;
+}
+
+.pagination {
+    margin:20px;
+    text-align:center;
+}
+
+#pagelinks ul li {
+    display:none;
+}
+
+#sidebar {
+    float:right;
+    width:175px;
+}
+
+#sidebar h2 {
+    border-bottom:2px solid #b20000;
+}
+
+#sidebar li {
+    list-style:none;
+}
+
+#s, #submit, #comment, #author, #email, #url, td>input.gsc-input {
+    border:1px solid #ccc;
+    color:#505050;
+    padding:4px;
+}
+
+#s, #submit, td>input.gsc-input {
+    width:145px;
+}
+
+#subpages a {
+    background-color:#fff;
+    padding-right:1em;
+}
+
+#subpages li.current_page_item, #subpages li.page_item:hover {
+    background:#fff url(/static/img/highlight.gif) center right no-repeat;
+}
+
+#subpages .page_item {
+    background:#fff url(/static/img/selected.gif) center right no-repeat;
+}
+
+#wrap {
+    background-color:#fff;
+    margin:0 auto;
+    width:760px;
+}
+
+.comment code {
+    background-color:#fff;
+}
+
+.comment-metadata {
+    font-style:oblique;
+    font-weight:bold;
+    line-height:2em;
+}
+
+.feedburnerFlareBlock {
+    font-size:.9em;
+    text-align:center;
+}
+
+.nextlink {
+    margin-left:10px;
+}
+
+.no-comments {
+    visibility:hidden;
+}
+
+.post-metadata {
+    background-color:#f4f4f4;
+    border-left:4px solid #ccc;
+    color:#606060;
+    font-size:.9em;
+    font-weight:bold;
+    line-height:1.5em;
+    margin:25px 0 40px 0;
+    padding:8px 5px 8px 8px;
+}
+
+.prevlink {
+    margin-right:10px;
+}
+
+.standard, .post-author {
+    margin-left:.5em;
+    overflow:hidden;
+}
+
+.widget_links li, .widget_subscribe li, .widget_subpages li, .widget_categories li, .widget_archives li {
+    font-size:.9em;
+    line-height:1.5em;
+}
+
+.widget {
+    margin-top:15px;
+}
+
+.widget_recent_comments li {
+    font-size:.9em;
+    margin-bottom:.6em;
+}
+
+a {
+    color:#b20000;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+blockquote {
+    font-size:.916em;
+    margin:0 1em 2.5em 2em;
+    padding:0 1em;
+}
+
+blockquote p {
+    margin-top:1em;
+}
+
+body {
+    background:#f4f4f4 url(/static/img/bg.gif) top center repeat-y;
+    color:#333;
+    font:.75em Verdana, Helvetica, sans-serif;
+}
+
+code {
+    background-color:#eaeaea;
+    display:block;
+    font-size:1.3em;
+    margin:0 1em 0 2em;
+    overflow:auto;
+    padding:1em;
+}
+
+h1 {
+    font-size:1.6em;
+    margin-bottom:8px;
+}
+
+h2 {
+    font-size:1.3em;
+    font-variant:small-caps;
+    margin-bottom:1em;
+}
+
+h3 {
+    font-size:1.2em;
+    margin-bottom:.5em;
+}
+
+html {
+    width:100.01%;
+}
+
+p {
+    line-height:1.5em;
+    margin-bottom:1.5em;
+}
+
+p>code {
+    margin:1.5em 1em 1em 2em;
+}
+
+pre {
+    font-size:1.3em;
+    margin:0 1em 2em 2em;
+    overflow:auto;
+    overflow-x:scroll;
+    overflow-y:scroll;
+}
+
+tt {
+    font-size:1.3em;
+}
+
+#td {
+    padding:5px;
+    text-align:center;
+    background-color:#fff;
+}
+
+#td:first-child {
+    text-align:right;
+    font-weight:bold;
+}
+
+#tr:first-child td {
+    background-color:#b20000;
+    border:0;
+    font-weight:bold;
+    color:#fff;
+    text-align:center;
+}
+
+#table {
+    background-color:#b20000;
+    border-collapse:collapse;
+    border-style:none;
+    margin:0 0 1.5em 0;
+}
+
+tr:first-child {
+    text-align:center;
+    text-valign:center;
+    color:#fff;
+}
+
+td {
+    border:1px solid;
+    padding:3px;
+}
+
+table {
+    font:.9em Verdana;
+    border:1px solid #000;
+}
+
+.gsc-search-box table {
+	width:0px;
+}
+
+#post-380>h1 {
+    display:none;
+}
+
+.gsc-search-button, .gsc-clear-button, .gsc-branding, .dsq-brlink {
+	display:none;
+}
+
+.gsc-control-cse table {
+	border:none;
+}
+
+.gsc-table-result tr:first-child {
+	text-align:left;
+}
