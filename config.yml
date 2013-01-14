@@ -1,0 +1,20 @@
+---
+active_modules: [pygments, tags, blog, disqus, analytics]
+author: Marcin Wielgoszewski
+canonical_url: 'http://www.tssci-security.com/'
+modules:
+  pygments:
+      style: tango
+template: base.html
+modules.blog.per_page: 5
+modules.blog.archive_url: '/archives/'
+modules.blog.year_archive_url: '/archives/<year>/'
+modules.blog.month_archive_url: '/archives/<year>/<month>/'
+modules.disqus.shortname: tssci-security-s0
+modules.disqus.developer: true
+modules.analytics.id: UA-128103-7
+modules.analytics.url: tssci-security.com
+modules.blog.mainmenu:
+    - ['/', 'Home']
+    - ['/about/', 'About']
+    - ['/research/', 'Research']
