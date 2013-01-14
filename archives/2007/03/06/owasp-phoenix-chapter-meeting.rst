@@ -39,7 +39,7 @@ are below:
 
     6:30 to 6:45 News & Introductions
     6:45 to 7:45 (1 hour): Reflections on Trusting the Same-Origin Policy
-    - and other web+network trust issues - Andre Gironda, Independent
+    – and other web+network trust issues – Andre Gironda, Independent
     Vulnerability Assessor / Researcher
 
 In computing, the same origin policy is an important security measure

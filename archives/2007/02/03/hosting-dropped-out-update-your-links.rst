@@ -21,6 +21,6 @@ to new host. Update your bookmarks to account for the changes. The new
 URL address of my blog is
 `www.tssci-security.com <www.tssci-security.com>`_.
 
-Thankfully, most of you who subscribe via RSS shouldn�€™t have to make
+Thankfully, most of you who subscribe via RSS shouldn't have to make
 any changes due to my feeds being handled by FeedBurner at
 `http://feeds.feedburner.com/tssci <http://>`_.

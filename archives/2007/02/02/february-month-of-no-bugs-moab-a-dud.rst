@@ -19,5 +19,5 @@ February: Month of No Bugs - MOAB a dud
 RMogull called it, `February is Month of No
 Bugs <http://securosis.com/2007/01/03/february-is-month-of-no-bugs/>`_.
 L.M.H. `signs off <http://blogs.zdnet.com/security/?p=9&tag=nl.e622>`_
-from Month of Apple Bugs.. let�€™s see who else will bother keeping up
+from Month of Apple Bugs... let's see who else will bother keeping up
 with the vulnerability a day, every day momentum.

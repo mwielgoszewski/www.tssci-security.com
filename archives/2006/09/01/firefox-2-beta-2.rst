@@ -29,7 +29,7 @@ been using it, let me know what you think of it.
 
 **edit: 11/06**
 
-To remove the green ¢â‚¬Ågo arrow¢â‚¬?, go to , and look for:
+To remove the green "go arrow", go to about:config, and look for:
 
     browser.urlbar.hideGoButton
 

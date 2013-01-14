@@ -38,12 +38,13 @@ Some highlights:
 
 From Dre;
 
-    While reading, ¢â‚¬ÅGeekonomics: The Real Cost of Insecure Software¢â‚¬?
+    While reading, "Geekonomics: The Real Cost of Insecure Software"
     and speaking with people at Fortify Software, Veracode, Cigital, and
-    MITRE¢â‚¬Â¦ I¢â‚¬â„¢m sold on the concept of a five-star ¢â‚¬Åsoftware
-    security assurance¢â‚¬? rating system for both commercial and
-    open-source software to solve the ¢â‚¬Åstem¢â‚¬? of this user+security
+    MITRE... I'm sold on the concept of a five-star "software
+    security assurance" rating system for both commercial and
+    open-source software to solve the "stem" of this user+security
     problem...
+
     ...get the five-star rating system published everywhere, on the
     software boxes, in newspapers, magazines, and everywhere the product
     name goes. Make it a part of consumer reports; make it the most

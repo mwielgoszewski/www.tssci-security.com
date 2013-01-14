@@ -81,7 +81,7 @@ interesting:
    Apocalypse <http://rationalsecurity.typepad.com/blog/2008/08/complete-slides.html>`_
    -- Hoff, adopt me already. Find a pdf compression tool, and tell us
    how you do it. Prison wine -- 'nuff said.
--  `DEFCON 16 �€“ The Tools not the
+-  `DEFCON 16 — The Tools not the
    Toools <http://www.room362.com/archives/217-DEFCON-16-The-Tools-not-the-Toools.html>`_
    -- Mubix!!
 -  `Request Forgeries on

@@ -146,12 +146,12 @@ from the `number of friends Samy had <http://namb.la/popular/>`_ when he
 `dropped his pants and took a dump all over our
 industry <http://ha.ckers.org/blog/20071117/owaspwasc-appsec-2007-wrap-up/>`_.
 
-    Jeremiah and I got a picture with him wearing ¢â‚¬ÅSamy is my hero¢â‚¬?
-    shirts. I haven¢â‚¬â„¢t laughed that hard in a long time! But to quote a
-    sanitized version of what one guy said, ¢â‚¬ÅSamy knew nothing about
+    Jeremiah and I got a picture with him wearing "Samy is my hero"
+    shirts. I haven't laughed that hard in a long time! But to quote a
+    sanitized version of what one guy said, Samy knew nothing about
     webappsec and one day he walked in, dropped his pants and took a
     huge dump on our industry and then left again. And we just looked
-    around at one another and said, ¢â‚¬ËœWhat just happened?¢â‚¬â„¢¢â‚¬?
+    around at one another and said, "What just happened?"
 
 Another way to get this right is to apply the work done by Matias Madou,
 Edward Lee, Jacob West and Brian Chess of Fortify in a paper titled:

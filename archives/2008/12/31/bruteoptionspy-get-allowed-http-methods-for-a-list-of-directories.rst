@@ -36,9 +36,14 @@ DirBuster <http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project>`_.
 Using the tool is simple, just specify the site FQDN to scan and give it
 a file as a second argument.
 
-``$ ./bruteoptions.py ./gethttpoptions.py <url> <list of directories>``
+::
+    $ ./bruteoptions.py
+    ./bruteoptions.py <url> <list of directories>``
 
-``$ ./bruteoptions.py tssci-security.com dirs �€�tssci-security.com�€,�€/about/�€,�€200 OK�€,�€Apache/1.3.39 (Unix)�€,�€None�€ �€�tssci-security.com�€,�€/upload/�€,�€200 OK�€,�€Apache/1.3.39 (Unix)�€,�€GET, HEAD, OPTIONS, TRACE�€ �€�tssci-security.com�€,�€/projects/�€,�€200 OK�€,�€Apache/1.3.39 (Unix)�€,�€None�€``
+    $ ./bruteoptions.py tssci-security.com dirs
+    “tssci-security.com”,”/about/”,”200 OK”,”Apache/1.3.39 (Unix)”,”None”
+    “tssci-security.com”,”/upload/”,”200 OK”,”Apache/1.3.39 (Unix)”,”GET, HEAD, OPTIONS, TRACE”
+    “tssci-security.com”,”/projects/”,”200 OK”,”Apache/1.3.39 (Unix)”,”None”
 
 An interesting thing I've just noticed, is the lack of allowed methods
 returned for a virtual directory, versus an actual directory when run

@@ -35,13 +35,19 @@ are two files located under the root directory:
 that contain the code we will be editing.
 
 Edit ``wp-admin/includes/update.php`` line **82** and **90**, and remove
-or change the url to your liking.
+or change the url to your liking.::
 
-``82ÂÂÂ$http_request .= "Host: api.wordpress.org\ \ "; ... 90ÂÂÂif( false != ( $fs = @fsockopen( 'api.wordpress.org', 80, $errno, $errstr, 3) ) && is_resource($fs) ) {``
+    82   $http_request .= "Host: api.wordpress.org\r\n";
+         ...
 
-Secondly, edit ``includes/update.php`` line **27** and **33** as well.
+    90   if( false != ( $fs = @fsockopen( 'api.wordpress.org', 80, $errno, $errstr, 3) ) && is_resource($fs) ) {
 
-``27ÂÂÂ$http_request .= "Host: api.wordpress.org\ \ "; ... 33ÂÂÂif ( false !== ( $fs = @fsockopen( 'api.wordpress.org', 80, $errno, $errstr, 3 ) ) && is_resource($fs) ) {``
+Secondly, edit ``includes/update.php`` line **27** and **33** as well.::
+
+    27   $http_request .= "Host: api.wordpress.org\r\n";
+         ...
+    
+    33   if ( false !== ( $fs = @fsockopen( 'api.wordpress.org', 80, $errno, $errstr, 3 ) ) && is_resource($fs) ) {
 
 In other words, who is in support of forking Wordpress? Perhaps we can
 revamp the entire architecture and make it more secure... just a

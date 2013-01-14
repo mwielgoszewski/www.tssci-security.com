@@ -47,7 +47,7 @@ of weeks.
 In this four-step process, Sachin lists how to "get more bang from your
 code review bucks":
 
-#. *Do rapid risk assessments to determine which �€˜money�€™ application
+#. *Do rapid risk assessments to determine which 'money' application
    should be code reviewed (**Choose the right apps**)*
 #. *Use tools / processes that easily finds the meat balls (vulnerable
    code classes) in your thousands or millions of lines of code

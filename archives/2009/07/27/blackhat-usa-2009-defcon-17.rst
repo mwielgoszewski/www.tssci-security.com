@@ -17,7 +17,7 @@ title: Blackhat USA 2009 / Defcon 17
 Blackhat USA 2009 / Defcon 17
 #############################
 
-It�€™s that time of year again, where we all come out of hiding and meet
+It's that time of year again, where we all come out of hiding and meet
 in Sin City to cause nothing but trouble. The brave venture out into the
 scorching hot sun during the day and some even dare tempt the waters at
 Rehab. The rest of us wait until dark, with the neon lights flickering

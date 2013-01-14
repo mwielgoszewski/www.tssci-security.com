@@ -147,7 +147,7 @@ Under the PCI DSS, it's required you:
 
     Note: Quarterly external vulnerability scans must be performed by a
     scan vendor qualified by the payment card industry. Scans conducted
-    after network changes may be performed by the company�€™s internal
+    after network changes may be performed by the company's internal
     staff.
 
     **11.3** Perform penetration testing at least once a year and after

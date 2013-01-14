@@ -48,36 +48,36 @@ Below is example HTML source code to our Selenium test case:
     <tr><td rowspan="1" colspan="3">Set a cookie via DOM XSS</td></tr>
     </thead><tbody>
     <tr>
-    ÂÂÂÂ<td>open</td>
-    ÂÂÂÂ<td>/awesome.html</td>
-    ÂÂÂÂ<td></td>
+        <td>open</td>
+        <td>/awesome.html</td>
+        <td></td>
     </tr>
     <tr>
-    ÂÂÂÂ<td>deleteCookie</td>
-    ÂÂÂÂ<td>name</td>
-    ÂÂÂÂ<td>/</td>
+        <td>deleteCookie</td>
+        <td>name</td>
+        <td>/</td>
     </tr>
     <tr>
-    ÂÂÂÂ<td>type</td>
-    ÂÂÂÂ<td>name</td>
-    ÂÂÂÂ<td><script>document.cookie='name=xss; 
-    ÂÂÂÂÂÂÂÂexpires=Thu, 2 Aug 2010 20:47:11 UTC; path=/';</script>
-    ÂÂÂÂ</td>
+        <td>type</td>
+        <td>name</td>
+        <td><script>document.cookie='name=xss; 
+            expires=Thu, 2 Aug 2010 20:47:11 UTC; path=/';</script>
+        </td>
     </tr>
     <tr>
-    ÂÂÂÂ<td>click</td>
-    ÂÂÂÂ<td>//input[@name='chat']</td>
-    ÂÂÂÂ<td></td>
+        <td>click</td>
+        <td>//input[@name='chat']</td>
+        <td></td>
     </tr>
     <tr>
-    ÂÂÂÂ<td>verifyCookie</td>
-    ÂÂÂÂ<td>name=xss</td>
-    ÂÂÂÂ<td>xss</td>
+        <td>verifyCookie</td>
+        <td>name=xss</td>
+        <td>xss</td>
     </tr>
     <tr>
-    ÂÂÂÂ<td>deleteCookie</td>
-    ÂÂÂÂ<td>name</td>
-    ÂÂÂÂ<td>/</td>
+        <td>deleteCookie</td>
+        <td>name</td>
+        <td>/</td>
     </tr>
     </tbody></table>
     </body>
@@ -89,15 +89,15 @@ And here is the same code as a Java integration test:
 
     package com.example.tests;import com.thoughtworks.selenium.*;
     import java.util.regex.Pattern;public class NewTest extends SeleneseTestCase {
-    ÂÂÂÂpublic void testNew() throws Exception {
-    ÂÂÂÂÂÂÂÂselenium.open("/awesome.html");
-    ÂÂÂÂÂÂÂÂselenium.deleteCookie("name", "/");
-    ÂÂÂÂÂÂÂÂselenium.type("name", "<script>document.cookie='name=xss;
-    ÂÂÂÂÂÂÂÂÂÂÂÂexpires=Thu, 2 Aug 2010 20:47:11 UTC; path=/';</script>");
-    ÂÂÂÂÂÂÂÂselenium.click("//input[@name='chat']");
-    ÂÂÂÂÂÂÂÂverifyEquals("name=xss", selenium.getCookie());
-    ÂÂÂÂÂÂÂÂselenium.deleteCookie("name", "/");
-    ÂÂÂÂ}
+        void testNew() throws Exception {
+            selenium.open("/awesome.html");
+            selenium.deleteCookie("name", "/");
+            selenium.type("name", "<script>document.cookie='name=xss;
+                expires=Thu, 2 Aug 2010 20:47:11 UTC; path=/';</script>");
+            selenium.click("//input[@name='chat']");
+            verifyEquals("name=xss", selenium.getCookie());
+            selenium.deleteCookie("name", "/");
+        }
     }
 
 We're anxious to hear any comments that you have about our presentation.
@@ -106,4 +106,4 @@ What would be your plans for implementing this in your devshop; is it
 too academic or far-fetched? We want to hear what you have to say, so
 let us know!
 
-Cheers! -Marcin Wielgoszewski -Andre Gironda
+Cheers! -Marcin Wielgoszewski & Andre Gironda

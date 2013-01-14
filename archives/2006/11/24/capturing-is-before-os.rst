@@ -19,7 +19,7 @@ Capturing I's before O's
 You're on the go, at the airport, at a coffee shop, whatever. You need
 to check your email or login to your bank account to make sure you have
 sufficient funds(I'd recommend against it, but people do it anyways).
-You sit down at a public internet terminal or internet caf© and proceed
+You sit down at a public internet terminal or internet café and proceed
 to go about your business. Well, you have no idea now what is running on
 that computer; you trust the administrator keeps it free of viruses and
 any spyware that could be lurking underneath. What you don't know, is

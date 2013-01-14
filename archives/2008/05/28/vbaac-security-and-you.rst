@@ -32,7 +32,18 @@ developer, as an example, can specificy security constraints that allows
 only GETs and POSTs to the /admin/\* directory for the "admin" user. The
 constraint would like so in web.xml file in a Java EE web application:
 
-``<security-constraint> ÂÂÂ<web-resource-collection> ÂÂÂÂÂÂ<url-pattern>/admin/*</url-pattern> ÂÂÂÂÂÂ<http-method>GET</http-method> ÂÂÂÂÂÂ<http-method>POST</http-method> ÂÂÂ</web-resource-collection> ÂÂÂ<auth-constraint> ÂÂÂÂÂÂ<role-name>admin</role-name> ÂÂÂ</auth-constraint> </security-constraint>``
+::
+
+    <security-constraint>
+        <web-resource-collection>
+            <url-pattern>/admin/*</url-pattern>
+            <http-method>GET</http-method>
+            <http-method>POST</http-method>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>admin</role-name>
+        </auth-constraint>
+    </security-constraint>
 
 The interesting part about this, is that this constraint limits POST and
 GET access to /admin/\* for the admin user. Anyone can submit a HTTP

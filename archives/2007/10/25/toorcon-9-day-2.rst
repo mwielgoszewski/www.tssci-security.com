@@ -52,7 +52,11 @@ references to the usual suspects (ha.ckers, 0x000000, etc) and also some
 lesser known resources. Some commonly overlooked tests that can get
 pretty fancy included:
 
-``?errorcode=(1+1) ?errormsg=erro�€™+�€™r ?errormsg=err'+substring('error',4,1)+'r ?errormsg=erro% ?errorcode=2 exec master.dbo.xp_cmdshell vncserver``
+``?errorcode=(1+1)
+?errormsg=erro’+’r
+?errormsg=err'+substring('error',4,1)+'r
+?errormsg=erro%
+?errorcode=2 exec master.dbo.xp_cmdshell vncserver``
 
 Be sure to check out `Paul's
 presentation <http://www.securityexperiment.com/se/2007/10/toorcon-9.html>`_,

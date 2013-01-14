@@ -19,34 +19,34 @@ Silence on the Wire Review
 
 *`Silence on the Wire: A Field Guide to Passive Reconnaissance and
 Indirect Attacks <http://lcamtuf.coredump.cx/silence.shtml>`_* By
-Micha…â€š Zalewski
+MichaÅ‚ Zalewski
 
-I am a student studying information security and I¢â‚¬â„¢ve read many books
+I am a student studying information security and I've read many books
 lately on the subject. Silence on the Wire is truly a unique book, and a
-nice change from the conventional reading material. Micha…â€š is a known
+nice change from the conventional reading material. MichaÅ‚ is a known
 expert in his field, and you can find many of his works and research in
 a simple search. His book focuses on the basic, yet most overlooked
 computer and network designs that can be attacked. In Silence on the
-Wire, Micha…â€š takes us on a long, treacherous journey of a packet, from
+Wire, MichaÅ‚ takes us on a long, treacherous journey of a packet, from
 when the data is first entered to its final destination. Along the way,
 we look at flaws in the design of computers and networks and how they
 are eventually exploited.
 
 I held off reading this book all summer, after trying to read through
 the second chapter and finally getting frustrated with it. Chapter two
-is the book¢â‚¬â„¢s downfall, as it spends entirely too much time getting to
-¢â‚¬Åthe point¢â‚¬? (as Richard Bejtlich puts it). Micha…â€š¢â‚¬â„¢s explanations
+is the book's downfall, as it spends entirely too much time getting to
+"the point" (as Richard Bejtlich puts it). MichaÅ‚'s explanations
 here were too confusing and will lose almost any reader. I think the
 section on the Turing Machine can be skipped over, unless you slow down
 and take notes and draw yourself diagrams of the information. Only then,
-will you probably understand what it¢â‚¬â„¢s getting at. I¢â‚¬â„¢m happy to say
+will you probably understand what it's getting at. I'm happy to say
 though, reading the rest of the book was fairly easy; anybody with a
 background in network computing and security will be able to follow
 along.
 
 Silence on the Wire is a fascinating read and I definitely recommend it
 to anybody who is interested or responsible for information security.
-Micha…â€š hopes his book will give you a new perspective on security and
+MichaÅ‚ hopes his book will give you a new perspective on security and
 explore the relationships and interactions between components. I am glad
 I got to read this book and hope one day to contribute my own research
 to the topic.

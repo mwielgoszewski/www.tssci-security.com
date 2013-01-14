@@ -34,13 +34,28 @@ the install script will ask you if you'd like to run
 ``/usr/bin/vmware-config.pl`` automatically. I did and I ran into a
 problem while compiling the vmmon modules:
 
-``What is the location of the directory of C header files that match your running kernel? [/lib/modules/2.6.20-14-386/build/include]``
+``What is the location of the directory of C header files that match your running kernel?
+[/lib/modules/2.6.20-14-386/build/include]``
 
 ``Extracting the sources of the vmmon module.``
 
 ``Building the vmmon module.``
 
-``Using 2.6.x kernel build system. make: Entering directory `/tmp/vmware-config0/vmmon-only' make -C /lib/modules/2.6.20-14-386/build/include/.. SUBDIRS=$PWD SRCROOT=$PWD/. modules make[1]: Entering directory `/usr/src/linux-headers-2.6.20-14-386' CC [M]  /tmp/vmware-config0/vmmon-only/linux/driver.o In file included from /tmp/vmware-config0/vmmon-only/linux/driver.c:80: /tmp/vmware-config0/vmmon-only/./include/compat_kernel.h:21: error: expected declaration specifiers or �€˜...�€™ before �€˜compat_exit�€™ /tmp/vmware-config0/vmmon-only/./include/compat_kernel.h:21: error: expected declaration specifiers or �€˜...�€™ before �€˜exit_code�€™ /tmp/vmware-config0/vmmon-only/./include/compat_kernel.h:21: warning: type defaults to �€˜int�€™ in declaration of �€˜_syscall1�€™ make[2]: *** [/tmp/vmware-config0/vmmon-only/linux/driver.o] Error 1 make[1]: *** [_module_/tmp/vmware-config0/vmmon-only] Error 2 make[1]: Leaving directory `/usr/src/linux-headers-2.6.20-14-386' make: *** [vmmon.ko] Error 2 make: Leaving directory `/tmp/vmware-config0/vmmon-only' Unable to build the vmmon module.``
+``Using 2.6.x kernel build system.
+make: Entering directory `/tmp/vmware-config0/vmmon-only'
+make -C /lib/modules/2.6.20-14-386/build/include/.. SUBDIRS=$PWD SRCROOT=$PWD/. modules
+make[1]: Entering directory `/usr/src/linux-headers-2.6.20-14-386'
+CC [M] /tmp/vmware-config0/vmmon-only/linux/driver.o
+In file included from /tmp/vmware-config0/vmmon-only/linux/driver.c:80:
+/tmp/vmware-config0/vmmon-only/./include/compat_kernel.h:21: error: expected declaration specifiers or ‘...’ before ‘compat_exit’
+/tmp/vmware-config0/vmmon-only/./include/compat_kernel.h:21: error: expected declaration specifiers or ‘...’ before ‘exit_code’
+/tmp/vmware-config0/vmmon-only/./include/compat_kernel.h:21: warning: type defaults to ‘int’ in declaration of ‘_syscall1’
+make[2]: *** [/tmp/vmware-config0/vmmon-only/linux/driver.o] Error 1
+make[1]: *** [_module_/tmp/vmware-config0/vmmon-only] Error 2
+make[1]: Leaving directory `/usr/src/linux-headers-2.6.20-14-386'
+make: *** [vmmon.ko] Error 2
+make: Leaving directory `/tmp/vmware-config0/vmmon-only'
+Unable to build the vmmon module.``
 
 If you experience this exact problem, download
 `vmnet.tar <http://www.tssci-security.com/blog/wp-content/uploads/2007/04/vmnet.tar>`_
@@ -54,13 +69,35 @@ more problems.
 
 ``$ sudo /usr/bin/vmware-config.pl``
 
-``What is the location of the directory of C header files that match your running kernel? [/lib/modules/2.6.20-14-386/build/include]``
+``What is the location of the directory of C header files that match your running kernel?
+[/lib/modules/2.6.20-14-386/build/include]``
 
 ``Extracting the sources of the vmmon module.``
 
 ``Building the vmmon module.``
 
-``Using 2.6.x kernel build system. make: Entering directory `/tmp/vmware-config2/vmmon-only' make -C /lib/modules/2.6.20-14-386/build/include/.. SUBDIRS=$PWD SRCROOT=$PWD/. modules make[1]: Entering directory `/usr/src/linux-headers-2.6.20-14-386' CC [M]  /tmp/vmware-config2/vmmon-only/linux/driver.o CC [M]  /tmp/vmware-config2/vmmon-only/linux/hostif.o CC [M]  /tmp/vmware-config2/vmmon-only/common/cpuid.o CC [M]  /tmp/vmware-config2/vmmon-only/common/hash.o CC [M]  /tmp/vmware-config2/vmmon-only/common/memtrack.o CC [M]  /tmp/vmware-config2/vmmon-only/common/phystrack.o CC [M]  /tmp/vmware-config2/vmmon-only/common/task.o CC [M]  /tmp/vmware-config2/vmmon-only/common/vmx86.o CC [M]  /tmp/vmware-config2/vmmon-only/vmcore/moduleloop.o LD [M]  /tmp/vmware-config2/vmmon-only/vmmon.o Building modules, stage 2. MODPOST 1 modules CC      /tmp/vmware-config2/vmmon-only/vmmon.mod.o LD [M]  /tmp/vmware-config2/vmmon-only/vmmon.ko make[1]: Leaving directory `/usr/src/linux-headers-2.6.20-14-386' cp -f vmmon.ko ./../vmmon.o make: Leaving directory `/tmp/vmware-config2/vmmon-only' The module loads perfectly in the running kernel.``
+``Using 2.6.x kernel build system.
+make: Entering directory `/tmp/vmware-config2/vmmon-only'
+make -C /lib/modules/2.6.20-14-386/build/include/.. SUBDIRS=$PWD SRCROOT=$PWD/. modules
+make[1]: Entering directory `/usr/src/linux-headers-2.6.20-14-386'
+CC [M] /tmp/vmware-config2/vmmon-only/linux/driver.o
+CC [M] /tmp/vmware-config2/vmmon-only/linux/hostif.o
+CC [M] /tmp/vmware-config2/vmmon-only/common/cpuid.o
+CC [M] /tmp/vmware-config2/vmmon-only/common/hash.o
+CC [M] /tmp/vmware-config2/vmmon-only/common/memtrack.o
+CC [M] /tmp/vmware-config2/vmmon-only/common/phystrack.o
+CC [M] /tmp/vmware-config2/vmmon-only/common/task.o
+CC [M] /tmp/vmware-config2/vmmon-only/common/vmx86.o
+CC [M] /tmp/vmware-config2/vmmon-only/vmcore/moduleloop.o
+LD [M] /tmp/vmware-config2/vmmon-only/vmmon.o
+Building modules, stage 2.
+MODPOST 1 modules
+CC /tmp/vmware-config2/vmmon-only/vmmon.mod.o
+LD [M] /tmp/vmware-config2/vmmon-only/vmmon.ko
+make[1]: Leaving directory `/usr/src/linux-headers-2.6.20-14-386'
+cp -f vmmon.ko ./../vmmon.o
+make: Leaving directory `/tmp/vmware-config2/vmmon-only'
+The module loads perfectly in the running kernel.``
 
 Finish up configuration and you're good to go. To start VMware, simply
 run ``vmware`` from the command line or from Applications > System Tools

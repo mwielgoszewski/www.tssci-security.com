@@ -23,7 +23,9 @@ Dell + Google Toolbar... profit??!?!
 
     `Dell & Google Secretly Installing Software to Make Money Off Your
     Typos <http://feeds.wired.com/%7Er/wired27b/%7E3/119045593/dell_google_sec.html>`_
-    - Those�€¦.bastards�€¦.how is this business practice not illegal?
+
+    - Those bastards, how is this business practice not illegal?
+
     *New Dell machines that include the Google toolbar as part of a
     marketing agreement also include a secret program that redirects
     non-url information typed into a browser window to a Dell-branded

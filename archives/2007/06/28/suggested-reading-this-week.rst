@@ -47,10 +47,10 @@ skilled in systems like VAX/VMS, TPF, z/OS is dwindling... Who will
 review the critical applications that run on them?
 
     *Most large organizations have a 30-40 year investment in their
-    applications and they�€™re not going to re-write in a Johnny come
-    lately language like Java or C# just because we can�€™t review old
+    applications and they're not going to re-write in a Johnny come
+    lately language like Java or C# just because we can't review old
     code. There are literally billions of lines of COBOL out there, and
-    it �€¦ runs the world. There should and MUST be a way we can review
+    it ... runs the world. There should and MUST be a way we can review
     this code.*
 
 `Analyzing the Facebook Platform, three weeks

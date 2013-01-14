@@ -54,7 +54,7 @@ been taylored with his demo application.
 Afterwards, several of us went out to eat for seafood and sushi. I tried
 sushi for the first time and well.. now I know I definitely do not like
 it. LOL. Thanks Erich for letting me try some. Following dinner, we went
-to the Microsoft sponsored party at Ol© Madrid down on Gaslamp, which
+to the Microsoft sponsored party at Olé Madrid down on Gaslamp, which
 was pretty good. Pretty much everyone in security was there, and then
 again at the ninja party.
 

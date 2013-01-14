@@ -117,7 +117,7 @@ experience with a lot of these.
    800-30 <http://csrc.nist.gov/publications/nistpubs/800-30/sp800-30.pdf>`_
 -  NIST `SP
    800-39 <http://csrc.nist.gov/publications/PubsDrafts.html#SP-800-39>`_
--  `Microsoft�€™s security risk management
+-  `Microsoft's security risk management
    guide <http://www.microsoft.com/downloads/details.aspx?familyid=c782b6d3-28c5-4dda-a168-3e4422645459&displaylang=en>`_
    (based on SLE, ARO, ALE, and ROSI)
 
@@ -339,7 +339,7 @@ to `his research <http://nob.cs.ucdavis.edu/~bishop/research/>`_ on
 
     *This project treats vulnerabilities as a collection of conditions
     required for an attacker to violate the relevant security policy.
-    We�€™re developing a set of conditions that apply to multiple
+    We're developing a set of conditions that apply to multiple
     vulnerabilties, which will help us locate previously unknown
     vulnerabilities, and a language to express the conditions in, which
     will help us reason about vulnerabilities with respect to security

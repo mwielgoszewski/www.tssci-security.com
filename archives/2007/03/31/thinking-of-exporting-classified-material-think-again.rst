@@ -37,7 +37,7 @@ Q.) What is an export?
 -  Sending or transporting hardware, software, or technical data out of
    the U.S. in any manner (e.g. hand-carry, web, courier, visually)
 -  Disclosing or transferring technical data to a foreign person by any
-   means whether in the U.S. or abroad (¢â‚¬Ådeemed export¢â‚¬?)
+   means whether in the U.S. or abroad ("deemed export")
 -  Release to a U.S. citizen employed by a foreign company, including
    non-incorporated branches
 -  Providing technical support/service on behalf of or for the benefit
@@ -59,7 +59,7 @@ Q.) What is a foreign national?
 
    -  Not a U.S. Citizen, or
 
-   -  Not a permanent resident alien (¢â‚¬Ågreen card¢â‚¬?), or
+   -  Not a permanent resident alien ("green card"), or
 
    -  Has not been granted asylum or refugee status
 

@@ -43,11 +43,11 @@ On PA-DSS and Visa's Payment Application Best Practices (PABP):
        vulnerabilities.
 
     Unfortunately, this was the extent of the detail. I wanted more
-    information on the enhancements but didn�€™t get a chance to ask a
+    information on the enhancements but didn't get a chance to ask a
     question due to time constraints. Specifically, it would be nice to
     understand whether code analysis would be an alternate option for
     the penetration test requirement. Or what exactly they meant by
-    using forensic tools to examine the application�€™s output.
+    using forensic tools to examine the application's output.
 
 Interesting... I'd like to know more about "using forensic tools to
 examine the application's output" as well. In my previous post, I

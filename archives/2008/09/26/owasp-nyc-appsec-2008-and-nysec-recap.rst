@@ -26,7 +26,7 @@ cool new people I got to meet included `Andres
 Riancho <http://w3af.sourceforge.net/>`_, `Dinis
 Cruz <http://www.owasp.org/index.php/User:Dinis.cruz>`_, `Ryan
 Naraine <http://blogs.zdnet.com/security/>`_, `Ivan
-Risti�‡ <http://blog.ivanristic.com/>`_, `Dave
+Ristić <http://blog.ivanristic.com/>`_, `Dave
 Aitel <http://lists.immunityinc.com/mailman/listinfo/dailydave>`_,
 `RSnake <http://ha.ckers.org/>`_, `Chris
 Nickerson <http://www.trutv.com/video/shows/tiger-team.html>`_, and

@@ -19,9 +19,9 @@ The Red Threat
 
 From attacking our cyber information infrastructure,
 
-    *People�€™s Liberation Army writings in recent years have called for
+    *People's Liberation Army writings in recent years have called for
     the use of all means necessary, including -or particularly-
-    information warfare, to support or advance their nation�€™s
+    information warfare, to support or advance their nation's
     interests.*\ *[`DoD's efforts to stave off nation-state cyberattacks
     begin with China <http://www.gcn.com/print/25_25/41716-1.html>`_\ ]*
 
@@ -52,7 +52,8 @@ to now blinding U.S. satellites,
     *China has fired high-power lasers at U.S. spy satellites flying
     over its territory in what experts see as a test of Chinese ability
     to blind the spacecraft, according to sources.*
-    *Pentagon officials, however, have kept quiet regarding China�€™s
+
+    *Pentagon officials, however, have kept quiet regarding China's
     efforts as part of a Bush administration policy to keep from
     angering Beijing, which is a leading U.S. trading partner and seen
     as key to dealing with onerous states like North Korea and Iran.
