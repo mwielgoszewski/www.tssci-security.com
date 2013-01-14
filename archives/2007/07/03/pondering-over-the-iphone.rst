@@ -79,7 +79,7 @@ answered, but here goes anyway.
 **Tracking**
 
 -  If device is lost what can be done? Macbooks have a program that can
-   ¢â‚¬Åphone home,¢â‚¬? like a Lo-Jack for laptops¢â‚¬Â¦ is there such a thing
+   "phone home", like a Lo-Jack for laptops â€“ is there such a thing
    for the phone?
 
 **Applications**

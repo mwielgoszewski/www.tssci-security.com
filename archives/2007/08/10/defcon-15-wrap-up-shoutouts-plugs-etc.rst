@@ -217,7 +217,7 @@ off. It was alright, but I was so tired from the night before. I was
 ready to crash for the night. On the way back to my room, I saw LoST,
 Acidica, Mouse, Deviant, and a bunch of others gathered around Michael
 J. Anderson, from *Twin Peaks* and who also plays Samson on the HBO
-series, CarnivÂle. Didn't catch everything they were talking about, but
+series, CarnivÃ le. Didn't catch everything they were talking about, but
 he was pretty cool and it was unbelievable to actually see how short he
 was.
 
