@@ -1,0 +1,128 @@
+author: dre
+disqus_id: 71fa772e-a247-4bdf-afc9-3205006624e5
+disqus_url: http://www.tssci-security.com/archives/2008/02/05/microsoft11111111111111111111/
+mod_date: 2008-02-05 14:58:31
+parent: 0
+post_id: 375
+post_type: post
+pub_date: 2008-02-05 14:52:21
+public: 'yes'
+slug: microsoft11111111111111111111
+tags:
+- Windows
+- Security
+template: post.html
+title: Microsoft11111111111111111111
+
+Microsoft11111111111111111111
+#############################
+
+I often sound like a Linux bigot.
+
+Before I was a labeled as a Linux bigot, I was considered a classic
+FreeBSD bigot (so you would think I like Mac OS X, but I don't). Before
+everyone tagged me as a FreeBSD bigot, I again gave the impression of
+being a Linux bigot (but that was before 2.2.2 when Slackware first came
+out; I mostly used Linux early on as SLS). Before everyone was sure that
+I was a first generation Linux bigot, I was also considered a 386BSD
+bigot. Before 386BSD, my background demonstrated that I had to be a
+SunOS 3.x/4.x bigpot (because it was my first introduction to Unix).
+Before that, everyone thought I was into Amigas or something.
+
+This is all very untrue, including the parts about Mac OS X. I am not an
+OS bigot; I am not a fanboy. I like computers and computers like me.
+I'll use anything you put in front of me, especially if it's free
+hardware and software. Microsoft is no exception.
+
+Microsoft is big. Microsoft thinks they own everything. Microsoft thinks
+ASP.NET is bigger and better than Java EE or PHP and that C#/CIL is
+bigger than Java.
+
+I really like Microsoftisms. Microsoft Vista is incredible. It
+consistently amazes me. Mono/.NET is the way to go for all programming.
+C# is the best language and has the best community. ASP.NET 3.5 is the
+third best framework for web application programming, right after HDIV
+SpringMVC (best) and HDIV Struts2. JSF is probably fourth place. I also
+like Grails and RoR, but these are toys compared to JEE and ASP.NET.
+Toys in the same way that first generation Linux was also a toy.
+
+Microsoft went and `released the sources to the .NET
+framework <http://www.casabasecurity.com/content/microsoft-releases-sources-net-framework/>`_
+almost three weeks ago (check out this link is for Casaba Security who
+hasn't blogged in quite some time until just recently!). Last week, I
+found out that the `Microsoft Code
+Gallery <http://code.msdn.microsoft.com>`_ (formerly known as the
+GotDotNet community portal) is back and in full force. `Microsoft also
+released Wave 0 <http://www.heise-security.co.uk/news/102994/>`_ for
+Vista yesterday, not to mention Windows Server 2008. Would this have
+anything to do with Bill Gates passing on the crown? I doubt it.
+
+Bill Gates started the `Trustworthy Computing
+initiative <http://en.wikipedia.org/wiki/Trustworthy_Computing>`_ in
+2002 from a memo in 2001. TwC is an acronym that reminds me of SwA
+(Software Assurance), and this is what the concept is probably really
+about. Software Assurance is a concept that nobody besides Matt Bishop
+seems to be able to talk about effectively. Even Gary McGraw is too busy
+with gaming to worry about tackling such a large issue.
+
+The new SwA is now called "Secure SDLC", which is one word with one
+acronym I'm very happy to see next to each other. The Microsoft SDL is
+widely touted as the only Security Lifecycle around, which is completely
+untrue. Threat-modeling (which I refer to as "attack-modeling") came
+from Microsoft -- actually, no, it's much better explained by either the
+DHS BHI's Architectural Risk Analysis or the Octotrike Trike and
+Privilege-centric Analysis models. Smart fuzzing is another huge
+Microsoft win, were it not for the work by VDA Labs, DVLabs,
+Codenomicon, and a few other fuzzer shops. SAL, SLAM, and
+Phoenix/Cthulhu were all partially responsible for kernel/driver
+security "beefing-up" in Windows Vista. Can you think of other recent
+wins for Microsoft?
+
+Sure, more web applications are written in PHP than ASP.NET (all
+versions) and Classic ASP combined. Of course Microsoft stole ASLR from
+GRSecurity and OpenBSD. The Microsoft SDL is a clear rip-off of SSE-CMM
+or Cigital Touchpoints. Threat-modeling is really just informal (i.e.
+arguments for) specification during design for risk-based and security
+reasons. Even fuzzing has been around since that Bart Simpson guy got
+that cool haircut -- and he probably stole it from methods combining
+source tracing, structural analysis, and advanced forms of functional
+testing that came out of the early 1970's.
+
+All of the above "a priori" intellectual property may have been stolen
+by Microsoft -- and then subsequently patented by them, but they were
+the ones that made it work for the masses.
+
+So it didn't surprise me when `Fortify announced support for
+.NET <http://searchsoftwarequality.techtarget.com/news/article/0,289142,sid92_gci1247743_dbg1,00.html?topic=306128>`_
+last March in their Defender product, or has had support for .NET
+throughout their SCA product. What surprises me is that Microsoft hasn't
+bought them yet.
+
+If you haven't already checked out Fortify's products, I suggest you get
+their book, "Secure Programming with Static Analysis" -- however, you
+can also find reference and screenshots of SCA in "Software Security:
+Building Security In" as well as "Buffer Overflow Attacks: Detect,
+Exploit, Prevent". Even if you're lacking in the book department, you
+can at least check out Marcus Ranum's `review of their
+tools <http://www.ranum.com/security/computer_security/editorials/codetools/>`_
+with some amazing screenshots.
+
+Ranum attempts to hint throughout his article the difference between
+\`security researchers' and \`vulnerability pimps'. He claims, "if [...]
+\`security researchers' actually wanted to be useful, they'd be working
+as part of the code audit team for Oracle, or Microsoft. But then they
+couldn't claim their fifteen minutes of fame on CNN or onstage at
+DEFCON.". He's right, of course.
+
+In a recent blog post from Bryan Sullivan on the Microsoft SDL Blog we
+see striking similarities. Bryan is interested in creating a sort of
+`Sexy Development
+Lifecycle <http://blogs.msdn.com/sdl/archive/2008/01/29/sexy-development-lifecycle.aspx>`_
+where Linux GNOMEs compile C programs for you. Ok, that's not exactly
+what Bryan said, but there is a lot to be said about the fact that
+software security is no longer about ad-hoc penetration-testing.
+Vulnerability pimps are a dead breed. In 2008, anybody can use tools
+like Fortify SCA or .NET Reflector/Deblector to find bugs. Have we
+already moved on in security research to where software vulnerabilities
+are no longer considered research, but novel software weaknesses are the
+minimum barrier to entry for BlackHat or even DEFCON?
