@@ -35,7 +35,7 @@ XSS <http://www.tssci-security.com/upload/Path-X_selenium-dom-xss.gif>`_.
 
 Below is example HTML source code to our Selenium test case:
 
-::
+.. sourcecode:: html
 
     <html>
     <head>
@@ -85,15 +85,18 @@ Below is example HTML source code to our Selenium test case:
 
 And here is the same code as a Java integration test:
 
-::
+.. sourcecode:: java
 
-    package com.example.tests;import com.thoughtworks.selenium.*;
-    import java.util.regex.Pattern;public class NewTest extends SeleneseTestCase {
+    package com.example.tests;
+    
+    import com.thoughtworks.selenium.*;
+    import java.util.regex.Pattern;
+    
+    public class NewTest extends SeleneseTestCase {
         void testNew() throws Exception {
             selenium.open("/awesome.html");
             selenium.deleteCookie("name", "/");
-            selenium.type("name", "<script>document.cookie='name=xss;
-                expires=Thu, 2 Aug 2010 20:47:11 UTC; path=/';</script>");
+            selenium.type("name", "<script>document.cookie='name=xss;expires=Thu, 2 Aug 2010 20:47:11 UTC; path=/';</script>");
             selenium.click("//input[@name='chat']");
             verifyEquals("name=xss", selenium.getCookie());
             selenium.deleteCookie("name", "/");
