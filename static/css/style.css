@@ -285,3 +285,16 @@ table {
 .gsc-table-result tr:first-child {
 	text-align:left;
 }
+
+ul.tagcloud {
+	font-size: 16px;
+   	margin: 36px 0;
+   	padding: 0;
+	list-style: none;
+}
+
+ul.tagcloud li {
+	margin: 0;
+	padding: 0 10px;
+	display: inline;
+}
