@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block title %}{{ rst.title }} | {% endblock title %}
+{% block container %}
+        <div id="content">
+        {%- if not config.hide_title %}
+          {{ rst.html_title }}
+        {%- endif %}
+
+          {{ rst.fragment }}
+
+        {%- block postmeta -%}{%- endblock postmeta -%}
+        </div><!-- end content -->
+{% endblock container %}

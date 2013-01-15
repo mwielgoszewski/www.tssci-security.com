@@ -1,0 +1,11 @@
+<div id="sidebar">
+          <h2 class="widgettitle">Search</h2>
+          <div id="cse-search-form"></div>
+
+          <h2 class="widgettitle">Categories</h2>
+          <ul class="widget_categories">
+          {%- for tag in get_tags() %}
+            <li class="cat-item"><a href="{{ link_to('tag', tag=tag.name) }}" title="View all posts filed under {{ tag.name | capitalize }}">{{ tag.name | capitalize }}</a> ({{ tag.count }})</li>
+          {% endfor %}
+          </ul>
+        </div><!-- end sidebar -->

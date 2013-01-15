@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block title %}Archive for the year {{ entry.year }} | {% endblock %}
+{% block container %}
+        <div id="content">
+          <h1>Archive for the year {{ entry.year }}</a></h1>
+      {%- for month in entry.months %}
+        {%- for entry in month.entries %}
+          {% include "blog/_entry.html" %}
+        {% endfor %}
+      {% endfor %}
+        </div><!-- end content -->
+{% endblock container %}
