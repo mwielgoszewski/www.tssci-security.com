@@ -4,7 +4,7 @@ author: Marcin Wielgoszewski
 canonical_url: 'http://www.tssci-security.com/'
 modules:
   pygments:
-      style: tango
+      style: trac
 template: base.html
 modules.blog.per_page: 5
 modules.blog.archive_url: '/archives/'
