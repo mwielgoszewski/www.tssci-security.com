@@ -9,7 +9,7 @@ pub_date: 2007-01-30 13:42:40
 public: 'yes'
 slug: scope-your-efforts
 tags:
-- Security
+- security
 template: post.html
 title: Scope your efforts
 

@@ -9,10 +9,10 @@ pub_date: 2008-05-07 01:15:30
 public: 'yes'
 slug: resident-scripts-and-global-cross-domain
 tags:
-- Privacy
-- Conferences
-- Hacking
-- Security
+- privacy
+- conferences
+- hacking
+- security
 template: post.html
 title: Resident scripts and global cross-domain
 

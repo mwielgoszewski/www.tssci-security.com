@@ -9,8 +9,8 @@ pub_date: 2006-09-23 02:18:35
 public: 'yes'
 slug: farewell-tomcat-hello-jsf
 tags:
-- Defense
-- News
+- defense
+- news
 template: post.html
 title: Farewell Tomcat, Hello JSF!
 

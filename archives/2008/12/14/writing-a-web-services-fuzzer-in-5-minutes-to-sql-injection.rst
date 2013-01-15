@@ -9,9 +9,9 @@ pub_date: 2008-12-14 00:15:50
 public: 'yes'
 slug: writing-a-web-services-fuzzer-in-5-minutes-to-sql-injection
 tags:
-- Code
-- Security
-- Work
+- code
+- security
+- work
 template: post.html
 title: Writing a web services fuzzer in 5 minutes to SQL injection
 

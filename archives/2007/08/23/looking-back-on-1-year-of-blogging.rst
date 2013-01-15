@@ -9,7 +9,7 @@ pub_date: 2007-08-23 15:15:03
 public: 'yes'
 slug: looking-back-on-1-year-of-blogging
 tags:
-- Other
+- other
 template: post.html
 title: Looking back on 1 year of blogging
 

@@ -9,10 +9,10 @@ pub_date: 2007-06-28 10:47:04
 public: 'yes'
 slug: suggested-reading-this-week
 tags:
-- Privacy
-- Tech
-- Security
-- News
+- privacy
+- tech
+- security
+- news
 template: post.html
 title: Suggested reading this week
 

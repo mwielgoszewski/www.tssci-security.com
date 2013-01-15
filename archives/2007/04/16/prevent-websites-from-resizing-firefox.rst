@@ -9,7 +9,7 @@ pub_date: 2007-04-16 18:50:29
 public: 'yes'
 slug: prevent-websites-from-resizing-firefox
 tags:
-- Tech
+- tech
 template: post.html
 title: Prevent websites from resizing Firefox
 

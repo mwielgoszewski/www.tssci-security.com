@@ -9,10 +9,10 @@ pub_date: 2008-06-15 10:26:26
 public: 'yes'
 slug: accountability-through-connected-frameworks
 tags:
-- Conferences
-- Tech
-- People
-- Security
+- conferences
+- tech
+- people
+- security
 template: post.html
 title: Accountability through connected frameworks
 

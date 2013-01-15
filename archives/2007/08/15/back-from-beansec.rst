@@ -9,7 +9,7 @@ pub_date: 2007-08-15 23:59:38
 public: 'yes'
 slug: back-from-beansec
 tags:
-- People
+- people
 template: post.html
 title: Back from BeanSec
 

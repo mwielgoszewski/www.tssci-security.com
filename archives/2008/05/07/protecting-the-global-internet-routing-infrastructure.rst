@@ -9,8 +9,8 @@ pub_date: 2008-05-07 14:16:50
 public: 'yes'
 slug: protecting-the-global-internet-routing-infrastructure
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: Protecting the global Internet routing infrastructure
 

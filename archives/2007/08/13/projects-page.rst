@@ -9,7 +9,7 @@ pub_date: 2007-08-13 02:20:20
 public: 'yes'
 slug: projects-page
 tags:
-- Other
+- other
 template: post.html
 title: Projects Page
 

@@ -9,8 +9,8 @@ pub_date: 2006-09-25 16:48:21
 public: 'yes'
 slug: the-red-threat
 tags:
-- Defense
-- Intelligence
+- defense
+- intelligence
 template: post.html
 title: The Red Threat
 

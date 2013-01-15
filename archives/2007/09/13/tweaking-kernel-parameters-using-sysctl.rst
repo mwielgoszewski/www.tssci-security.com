@@ -9,8 +9,8 @@ pub_date: 2007-09-13 11:03:35
 public: 'yes'
 slug: tweaking-kernel-parameters-using-sysctl
 tags:
-- Apple
-- Security
+- apple
+- security
 template: post.html
 title: Tweaking kernel parameters using sysctl
 

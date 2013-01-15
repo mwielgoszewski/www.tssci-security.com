@@ -9,7 +9,7 @@ pub_date: 2007-04-06 18:12:01
 public: 'yes'
 slug: shmoocon-2007-videos
 tags:
-- Security
+- security
 template: post.html
 title: ShmooCon 2007 Videos
 

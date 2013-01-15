@@ -9,7 +9,7 @@ pub_date: 2007-03-07 21:45:09
 public: 'yes'
 slug: vert-challenge-1-progress
 tags:
-- Security
+- security
 template: post.html
 title: 'VERT Challenge #1 Progress'
 

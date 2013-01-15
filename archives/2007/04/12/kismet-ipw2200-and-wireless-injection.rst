@@ -9,8 +9,8 @@ pub_date: 2007-04-12 21:58:51
 public: 'yes'
 slug: kismet-ipw2200-and-wireless-injection
 tags:
-- Linux
-- Security
+- linux
+- security
 template: post.html
 title: Kismet, ipw2200, and wireless injection
 

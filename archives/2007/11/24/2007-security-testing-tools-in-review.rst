@@ -9,8 +9,8 @@ pub_date: 2007-11-24 11:10:53
 public: 'yes'
 slug: 2007-security-testing-tools-in-review
 tags:
-- Hacking
-- Security
+- hacking
+- security
 template: post.html
 title: 2007 Security Testing tools in review
 

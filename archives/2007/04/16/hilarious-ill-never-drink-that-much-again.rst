@@ -9,9 +9,9 @@ pub_date: 2007-04-16 19:00:48
 public: 'yes'
 slug: hilarious-ill-never-drink-that-much-again
 tags:
-- Privacy
-- Politics
-- Security
+- privacy
+- politics
+- security
 template: post.html
 title: Hilarious, I'll never drink that much again!
 

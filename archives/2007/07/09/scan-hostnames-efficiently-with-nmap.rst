@@ -9,8 +9,8 @@ pub_date: 2007-07-09 09:40:58
 public: 'yes'
 slug: scan-hostnames-efficiently-with-nmap
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: Scan hostnames efficiently with Nmap
 

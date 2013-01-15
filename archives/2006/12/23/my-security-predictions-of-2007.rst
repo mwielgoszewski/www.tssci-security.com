@@ -9,8 +9,8 @@ pub_date: 2006-12-23 02:54:20
 public: 'yes'
 slug: my-security-predictions-of-2007
 tags:
-- School
-- Security
+- school
+- security
 template: post.html
 title: My Security Predictions of 2007
 

@@ -9,7 +9,7 @@ pub_date: 2007-11-07 02:22:49
 public: 'yes'
 slug: roothack-revival-and-tssci-is-participating
 tags:
-- Hacking
+- hacking
 template: post.html
 title: Roothack revival -- and TSSCI is participating!
 

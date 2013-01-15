@@ -9,8 +9,8 @@ pub_date: 2007-04-30 17:03:18
 public: 'yes'
 slug: csum-ratings
 tags:
-- Tech
-- Security
+- tech
+- security
 template: post.html
 title: CSUM Ratings
 

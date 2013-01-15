@@ -9,8 +9,8 @@ pub_date: 2008-06-27 16:17:40
 public: 'yes'
 slug: week-of-war-on-wafs-day-5-final-thoughts
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: 'Week of War on WAF''s: Day 5 -- Final thoughts'
 

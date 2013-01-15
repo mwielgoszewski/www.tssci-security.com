@@ -9,7 +9,7 @@ pub_date: 2007-04-05 21:49:09
 public: 'yes'
 slug: whats-the-big-deal-about-wep
 tags:
-- Security
+- security
 template: post.html
 title: What's the big deal about WEP??
 

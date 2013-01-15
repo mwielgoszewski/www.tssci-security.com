@@ -9,7 +9,7 @@ pub_date: 2007-01-22 22:14:00
 public: 'yes'
 slug: the-security-journal-winter-2007
 tags:
-- Security
+- security
 template: post.html
 title: The Security Journal - Winter 2007
 

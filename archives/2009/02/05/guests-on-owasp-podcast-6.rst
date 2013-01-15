@@ -9,8 +9,8 @@ pub_date: 2009-02-05 11:53:27
 public: 'yes'
 slug: guests-on-owasp-podcast-6
 tags:
-- People
-- Security
+- people
+- security
 template: post.html
 title: 'Guests on OWASP Podcast #6'
 

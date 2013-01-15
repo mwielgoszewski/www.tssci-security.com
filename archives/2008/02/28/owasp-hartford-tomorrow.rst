@@ -9,9 +9,9 @@ pub_date: 2008-02-28 00:15:34
 public: 'yes'
 slug: owasp-hartford-tomorrow
 tags:
-- Conferences
-- People
-- Security
+- conferences
+- people
+- security
 template: post.html
 title: OWASP Hartford tomorrow
 

@@ -9,8 +9,8 @@ pub_date: 2007-02-16 12:19:17
 public: 'yes'
 slug: risk-of-injury-to-a-minor-stupid-law
 tags:
-- Politics
-- News
+- politics
+- news
 template: post.html
 title: Risk of Injury to a Minor == Stupid Law
 

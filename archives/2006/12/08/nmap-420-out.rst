@@ -9,8 +9,8 @@ pub_date: 2006-12-08 02:46:17
 public: 'yes'
 slug: nmap-420-out
 tags:
-- Links
-- Security
+- links
+- security
 template: post.html
 title: Nmap 4.20 Out
 

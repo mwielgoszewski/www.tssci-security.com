@@ -9,8 +9,8 @@ pub_date: 2007-05-23 12:20:11
 public: 'yes'
 slug: protecting-data-in-use
 tags:
-- Privacy
-- Security
+- privacy
+- security
 template: post.html
 title: Protecting data in use
 

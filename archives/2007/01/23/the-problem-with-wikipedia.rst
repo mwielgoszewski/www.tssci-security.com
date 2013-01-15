@@ -9,7 +9,7 @@ pub_date: 2007-01-23 22:32:28
 public: 'yes'
 slug: the-problem-with-wikipedia
 tags:
-- Other
+- other
 template: post.html
 title: 'The problem with Wikipedia:'
 

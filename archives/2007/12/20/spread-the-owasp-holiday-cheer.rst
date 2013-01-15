@@ -9,7 +9,7 @@ pub_date: 2007-12-20 12:03:56
 public: 'yes'
 slug: spread-the-owasp-holiday-cheer
 tags:
-- Security
+- security
 template: post.html
 title: Spread the OWASP Holiday Cheer
 

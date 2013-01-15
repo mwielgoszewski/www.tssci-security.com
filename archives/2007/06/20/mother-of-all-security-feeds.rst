@@ -9,7 +9,7 @@ pub_date: 2007-06-20 10:29:21
 public: 'yes'
 slug: mother-of-all-security-feeds
 tags:
-- Security
+- security
 template: post.html
 title: Mother of all security feeds
 

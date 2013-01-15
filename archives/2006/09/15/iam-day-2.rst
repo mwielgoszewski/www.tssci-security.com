@@ -9,8 +9,8 @@ pub_date: 2006-09-15 22:34:44
 public: 'yes'
 slug: iam-day-2
 tags:
-- School
-- Security
+- school
+- security
 template: post.html
 title: IAM Day 2
 

@@ -9,9 +9,9 @@ pub_date: 2007-01-30 12:37:28
 public: 'yes'
 slug: scale-socal-linux-expo
 tags:
-- Tech
-- Security
-- News
+- tech
+- security
+- news
 template: post.html
 title: 'SCALE: SoCal Linux Expo'
 

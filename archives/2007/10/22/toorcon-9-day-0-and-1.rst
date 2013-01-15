@@ -9,10 +9,10 @@ pub_date: 2007-10-22 19:23:54
 public: 'yes'
 slug: toorcon-9-day-0-and-1
 tags:
-- Conferences
-- People
-- Hacking
-- Security
+- conferences
+- people
+- hacking
+- security
 template: post.html
 title: ToorCon 9 - Day 0 and 1
 

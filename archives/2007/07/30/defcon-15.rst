@@ -9,8 +9,8 @@ pub_date: 2007-07-30 23:06:03
 public: 'yes'
 slug: defcon-15
 tags:
-- Conferences
-- Security
+- conferences
+- security
 template: post.html
 title: DEFCON 15
 

@@ -9,7 +9,7 @@ pub_date: 2006-10-03 05:05:55
 public: 'yes'
 slug: slackware-110
 tags:
-- Tech
+- tech
 template: post.html
 title: Slackware 11.0
 

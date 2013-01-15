@@ -9,8 +9,8 @@ pub_date: 2006-09-13 12:06:39
 public: 'yes'
 slug: day-1-of-nsas-iam
 tags:
-- School
-- Security
+- school
+- security
 template: post.html
 title: Day 1 of NSA's IAM
 

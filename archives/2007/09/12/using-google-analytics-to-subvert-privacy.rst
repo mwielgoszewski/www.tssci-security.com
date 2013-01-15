@@ -9,8 +9,8 @@ pub_date: 2007-09-12 18:09:09
 public: 'yes'
 slug: using-google-analytics-to-subvert-privacy
 tags:
-- Privacy
-- Security
+- privacy
+- security
 template: post.html
 title: Using Google Analytics to subvert privacy
 

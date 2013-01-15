@@ -9,8 +9,8 @@ pub_date: 2007-01-15 21:00:19
 public: 'yes'
 slug: looking-for-a-new-home-host-that-is
 tags:
-- News
-- Other
+- news
+- other
 template: post.html
 title: Looking for a new home... host that is
 

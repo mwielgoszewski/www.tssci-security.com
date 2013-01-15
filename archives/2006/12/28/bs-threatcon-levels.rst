@@ -9,8 +9,8 @@ pub_date: 2006-12-28 16:09:12
 public: 'yes'
 slug: bs-threatcon-levels
 tags:
-- Intelligence
-- Security
+- intelligence
+- security
 template: post.html
 title: BS ThreatCon Levels
 

@@ -9,8 +9,8 @@ pub_date: 2006-12-05 14:25:02
 public: 'yes'
 slug: open-letter-to-domain-registrars
 tags:
-- Links
-- Security
+- links
+- security
 template: post.html
 title: Open Letter to Domain Registrars
 

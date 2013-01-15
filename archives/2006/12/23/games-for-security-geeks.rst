@@ -9,7 +9,7 @@ pub_date: 2006-12-23 02:37:08
 public: 'yes'
 slug: games-for-security-geeks
 tags:
-- Security
+- security
 template: post.html
 title: Games for Security Geeks
 

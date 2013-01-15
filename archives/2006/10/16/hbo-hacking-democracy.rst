@@ -9,7 +9,7 @@ pub_date: 2006-10-16 16:41:31
 public: 'yes'
 slug: hbo-hacking-democracy
 tags:
-- Security
+- security
 template: post.html
 title: HBO - Hacking Democracy
 

@@ -9,7 +9,7 @@ pub_date: 2007-02-21 14:06:50
 public: 'yes'
 slug: what-is-an-insider-threat
 tags:
-- Security
+- security
 template: post.html
 title: What is an Insider Threat?
 

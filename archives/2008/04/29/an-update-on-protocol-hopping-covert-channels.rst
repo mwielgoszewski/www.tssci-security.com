@@ -9,8 +9,8 @@ pub_date: 2008-04-29 09:29:43
 public: 'yes'
 slug: an-update-on-protocol-hopping-covert-channels
 tags:
-- Security
-- News
+- security
+- news
 template: post.html
 title: An update on Protocol hopping covert channels
 

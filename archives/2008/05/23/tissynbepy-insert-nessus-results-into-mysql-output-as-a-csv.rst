@@ -9,8 +9,8 @@ pub_date: 2008-05-23 14:33:35
 public: 'yes'
 slug: tissynbepy-insert-nessus-results-into-mysql-output-as-a-csv
 tags:
-- Code
-- Security
+- code
+- security
 template: post.html
 title: tissynbe.py -- Insert Nessus results into MySQL, output as a CSV
 

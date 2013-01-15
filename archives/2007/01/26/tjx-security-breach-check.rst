@@ -9,9 +9,9 @@ pub_date: 2007-01-26 18:40:29
 public: 'yes'
 slug: tjx-security-breach-check
 tags:
-- Privacy
-- Security
-- News
+- privacy
+- security
+- news
 template: post.html
 title: TJX security breach.. check
 

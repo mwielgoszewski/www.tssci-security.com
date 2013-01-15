@@ -9,7 +9,7 @@ pub_date: 2007-11-19 12:00:56
 public: 'yes'
 slug: contributing-towards-a-solution
 tags:
-- Security
+- security
 template: post.html
 title: Contributing towards a solution
 

@@ -9,10 +9,10 @@ pub_date: 2007-07-29 11:48:39
 public: 'yes'
 slug: preventing-and-detecting-sensitive-data-on-p2p-networks
 tags:
-- Tech
-- Security
-- News
-- Politics
+- tech
+- security
+- news
+- politics
 template: post.html
 title: Preventing and Detecting Sensitive Data on P2P Networks
 

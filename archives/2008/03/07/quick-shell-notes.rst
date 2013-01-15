@@ -9,8 +9,8 @@ pub_date: 2008-03-07 12:34:06
 public: 'yes'
 slug: quick-shell-notes
 tags:
-- Linux
-- Hacking
+- linux
+- hacking
 template: post.html
 title: Quick Shell  Notes
 

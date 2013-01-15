@@ -9,8 +9,8 @@ pub_date: 2008-11-20 23:20:40
 public: 'yes'
 slug: decreasing-security-for-perceived-security-all-in-the-name-of-compliance
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: Decreasing Security for Perceived Security -- all in the name of compliance
 

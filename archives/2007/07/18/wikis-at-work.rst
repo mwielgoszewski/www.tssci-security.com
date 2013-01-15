@@ -9,8 +9,8 @@ pub_date: 2007-07-18 09:00:48
 public: 'yes'
 slug: wikis-at-work
 tags:
-- Tech
-- Work
+- tech
+- work
 template: post.html
 title: Wikis at work
 

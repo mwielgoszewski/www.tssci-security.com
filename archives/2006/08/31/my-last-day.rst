@@ -9,7 +9,7 @@ pub_date: 2006-08-31 20:49:53
 public: 'yes'
 slug: my-last-day
 tags:
-- Other
+- other
 template: post.html
 title: My Last Day...
 

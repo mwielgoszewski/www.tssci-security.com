@@ -9,7 +9,7 @@ pub_date: 2007-06-20 12:08:19
 public: 'yes'
 slug: ssn-misuses
 tags:
-- Privacy
+- privacy
 template: post.html
 title: SSN misuses
 

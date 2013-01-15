@@ -9,11 +9,11 @@ pub_date: 2008-08-24 17:40:41
 public: 'yes'
 slug: happy-two-year-anniversary
 tags:
-- Conferences
-- People
-- Security
-- News
-- Work
+- conferences
+- people
+- security
+- news
+- work
 template: post.html
 title: Happy Two-Year Anniversary
 

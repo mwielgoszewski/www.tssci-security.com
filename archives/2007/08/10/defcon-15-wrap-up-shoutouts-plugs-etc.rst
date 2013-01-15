@@ -9,8 +9,8 @@ pub_date: 2007-08-10 22:45:00
 public: 'yes'
 slug: defcon-15-wrap-up-shoutouts-plugs-etc
 tags:
-- Conferences
-- People
+- conferences
+- people
 template: post.html
 title: DefCon 15 wrap-up, shoutouts, plugs, etc.
 

@@ -9,7 +9,7 @@ pub_date: 2006-09-13 06:01:09
 public: 'yes'
 slug: foxit-reader-20-released
 tags:
-- Tech
+- tech
 template: post.html
 title: Foxit Reader 2.0 released!
 

@@ -9,7 +9,7 @@ pub_date: 2008-04-03 17:05:58
 public: 'yes'
 slug: privacy-google-scroogle-and-you
 tags:
-- Privacy
+- privacy
 template: post.html
 title: Privacy, Google, Scroogle, and You
 

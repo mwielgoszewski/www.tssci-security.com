@@ -9,7 +9,7 @@ pub_date: 2007-03-18 16:03:42
 public: 'yes'
 slug: are-we-taking-vulnerabilities-less-seriously
 tags:
-- Security
+- security
 template: post.html
 title: Are we taking vulnerabilities less seriously?
 

@@ -9,7 +9,7 @@ pub_date: 2007-06-20 15:15:04
 public: 'yes'
 slug: well-revoke-your-blogging-privileges
 tags:
-- Other
+- other
 template: post.html
 title: We'll revoke your blogging privileges
 

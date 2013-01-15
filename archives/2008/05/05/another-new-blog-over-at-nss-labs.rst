@@ -9,9 +9,9 @@ pub_date: 2008-05-05 17:32:22
 public: 'yes'
 slug: another-new-blog-over-at-nss-labs
 tags:
-- Privacy
-- Security
-- News
+- privacy
+- security
+- news
 template: post.html
 title: Another new blog over at NSS Labs
 

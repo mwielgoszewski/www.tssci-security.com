@@ -9,7 +9,7 @@ pub_date: 2006-09-04 21:43:32
 public: 'yes'
 slug: crikey
 tags:
-- News
+- news
 template: post.html
 title: Crikey!
 

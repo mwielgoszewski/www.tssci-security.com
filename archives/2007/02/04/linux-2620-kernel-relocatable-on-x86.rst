@@ -9,9 +9,9 @@ pub_date: 2007-02-04 21:38:42
 public: 'yes'
 slug: linux-2620-kernel-relocatable-on-x86
 tags:
-- Tech
-- Security
-- News
+- tech
+- security
+- news
 template: post.html
 title: Linux 2.6.20 kernel relocatable on x86
 

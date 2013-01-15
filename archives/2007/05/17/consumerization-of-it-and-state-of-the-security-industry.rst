@@ -9,8 +9,8 @@ pub_date: 2007-05-17 16:58:07
 public: 'yes'
 slug: consumerization-of-it-and-state-of-the-security-industry
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: Consumerization of IT and state of the security industry
 

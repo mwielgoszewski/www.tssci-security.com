@@ -9,7 +9,7 @@ pub_date: 2006-12-09 06:11:01
 public: 'yes'
 slug: verizon-002-cents-002-dollars
 tags:
-- Intelligence
+- intelligence
 template: post.html
 title: Verizon, .002 cents != .002 dollars
 

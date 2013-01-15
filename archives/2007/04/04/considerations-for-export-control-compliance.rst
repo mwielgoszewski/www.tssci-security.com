@@ -9,8 +9,8 @@ pub_date: 2007-04-04 02:59:19
 public: 'yes'
 slug: considerations-for-export-control-compliance
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: Considerations for Export Control Compliance
 

@@ -9,7 +9,7 @@ pub_date: 2007-01-20 05:32:19
 public: 'yes'
 slug: storm-worm-and-f-secure-worldmap
 tags:
-- Security
+- security
 template: post.html
 title: Storm-Worm and F-Secure WorldMap
 

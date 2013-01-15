@@ -9,7 +9,7 @@ pub_date: 2006-11-10 15:27:14
 public: 'yes'
 slug: for-all-the-is-managers
 tags:
-- Security
+- security
 template: post.html
 title: For all the IS Managers
 

@@ -9,7 +9,7 @@ pub_date: 2006-08-28 08:12:29
 public: 'yes'
 slug: fall-2006-semester
 tags:
-- School
+- school
 template: post.html
 title: Fall 2006 Semester
 

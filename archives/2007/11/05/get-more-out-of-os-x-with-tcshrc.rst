@@ -9,7 +9,7 @@ pub_date: 2007-11-05 19:17:35
 public: 'yes'
 slug: get-more-out-of-os-x-with-tcshrc
 tags:
-- Apple
+- apple
 template: post.html
 title: Get more out of OS X with tcshrc
 

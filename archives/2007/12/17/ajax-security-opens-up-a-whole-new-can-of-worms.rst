@@ -9,8 +9,8 @@ pub_date: 2007-12-17 10:42:17
 public: 'yes'
 slug: ajax-security-opens-up-a-whole-new-can-of-worms
 tags:
-- Hacking
-- Security
+- hacking
+- security
 template: post.html
 title: Ajax Security opens up a whole new can of worms
 

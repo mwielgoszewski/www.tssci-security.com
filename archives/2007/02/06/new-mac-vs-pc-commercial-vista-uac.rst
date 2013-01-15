@@ -9,8 +9,8 @@ pub_date: 2007-02-06 02:21:12
 public: 'yes'
 slug: new-mac-vs-pc-commercial-vista-uac
 tags:
-- Tech
-- Security
+- tech
+- security
 template: post.html
 title: New Mac vs PC commercial... Vista UAC
 

@@ -9,8 +9,8 @@ pub_date: 2007-08-09 09:21:49
 public: 'yes'
 slug: security-tools-for-os-x-denythumbdrives
 tags:
-- Apple
-- Security
+- apple
+- security
 template: post.html
 title: Security Tools for OS X -- DenyThumbDrives
 

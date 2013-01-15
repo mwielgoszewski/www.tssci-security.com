@@ -9,8 +9,8 @@ pub_date: 2009-07-27 23:26:28
 public: 'yes'
 slug: blackhat-usa-2009-defcon-17
 tags:
-- Conferences
-- Security
+- conferences
+- security
 template: post.html
 title: Blackhat USA 2009 / Defcon 17
 

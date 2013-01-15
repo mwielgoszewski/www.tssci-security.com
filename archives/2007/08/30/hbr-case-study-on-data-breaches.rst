@@ -9,7 +9,7 @@ pub_date: 2007-08-30 15:30:34
 public: 'yes'
 slug: hbr-case-study-on-data-breaches
 tags:
-- Security
+- security
 template: post.html
 title: HBR case study on data breaches
 

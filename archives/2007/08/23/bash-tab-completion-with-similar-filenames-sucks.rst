@@ -9,7 +9,7 @@ pub_date: 2007-08-23 12:04:39
 public: 'yes'
 slug: bash-tab-completion-with-similar-filenames-sucks
 tags:
-- Linux
+- linux
 template: post.html
 title: Bash Tab Completion with Similar Filenames Sucks
 

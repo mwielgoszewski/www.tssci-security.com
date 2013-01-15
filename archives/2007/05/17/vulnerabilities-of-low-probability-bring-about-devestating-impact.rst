@@ -9,8 +9,8 @@ pub_date: 2007-05-17 17:06:17
 public: 'yes'
 slug: vulnerabilities-of-low-probability-bring-about-devestating-impact
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: Vulnerabilities of low probability bring about devestating impact
 

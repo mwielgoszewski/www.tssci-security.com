@@ -9,8 +9,8 @@ pub_date: 2006-11-06 14:31:31
 public: 'yes'
 slug: export-us-defense-information-to-china-fun-for-the-whole-family
 tags:
-- Defense
-- Intelligence
+- defense
+- intelligence
 template: post.html
 title: Export U.S. Defense Information to China - Fun for the whole family!
 

@@ -9,8 +9,8 @@ pub_date: 2007-03-25 23:51:39
 public: 'yes'
 slug: disable-wireless-on-bootup
 tags:
-- Linux
-- Security
+- linux
+- security
 template: post.html
 title: Disable wireless on bootup
 

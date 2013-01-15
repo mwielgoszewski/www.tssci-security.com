@@ -9,7 +9,7 @@ pub_date: 2007-12-09 23:55:13
 public: 'yes'
 slug: simultaneous-firefox-profiles-used-to-guard-against-csrf-attacks
 tags:
-- Security
+- security
 template: post.html
 title: Simultaenous use of Firefox profiles to guard against CSRF attacks
 

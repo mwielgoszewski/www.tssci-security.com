@@ -9,8 +9,8 @@ pub_date: 2008-09-21 23:35:09
 public: 'yes'
 slug: owasp-appsec-nyc-2008-will-you-be-there
 tags:
-- Conferences
-- Security
+- conferences
+- security
 template: post.html
 title: OWASP AppSec NYC 2008 -- Will you be there?
 

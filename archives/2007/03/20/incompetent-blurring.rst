@@ -9,8 +9,8 @@ pub_date: 2007-03-20 17:49:51
 public: 'yes'
 slug: incompetent-blurring
 tags:
-- Privacy
-- Security
+- privacy
+- security
 template: post.html
 title: Incompetent blurring
 

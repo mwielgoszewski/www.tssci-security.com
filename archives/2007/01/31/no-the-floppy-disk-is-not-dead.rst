@@ -9,8 +9,8 @@ pub_date: 2007-01-31 17:06:01
 public: 'yes'
 slug: no-the-floppy-disk-is-not-dead
 tags:
-- Tech
-- Security
+- tech
+- security
 template: post.html
 title: No, the floppy disk is not dead
 

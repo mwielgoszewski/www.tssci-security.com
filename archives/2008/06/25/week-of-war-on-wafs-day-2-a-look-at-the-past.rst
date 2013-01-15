@@ -9,8 +9,8 @@ pub_date: 2008-06-25 02:07:09
 public: 'yes'
 slug: week-of-war-on-wafs-day-2-a-look-at-the-past
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: 'Week of War on WAF''s: Day 2 -- A look at the past'
 

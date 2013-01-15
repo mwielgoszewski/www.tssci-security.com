@@ -9,7 +9,7 @@ pub_date: 2009-07-25 20:18:16
 public: 'yes'
 slug: appsec-industry-trends-looking-forward
 tags:
-- Security
+- security
 template: post.html
 title: Appsec industry trends - looking forward
 

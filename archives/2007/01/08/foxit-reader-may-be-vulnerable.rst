@@ -9,7 +9,7 @@ pub_date: 2007-01-08 11:22:26
 public: 'yes'
 slug: foxit-reader-may-be-vulnerable
 tags:
-- Security
+- security
 template: post.html
 title: Foxit Reader (may be) vulnerable
 

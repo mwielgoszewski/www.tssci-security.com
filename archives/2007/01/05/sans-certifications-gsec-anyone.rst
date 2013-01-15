@@ -9,7 +9,7 @@ pub_date: 2007-01-05 05:20:19
 public: 'yes'
 slug: sans-certifications-gsec-anyone
 tags:
-- Security
+- security
 template: post.html
 title: SANS Certifications, GSEC anyone?
 

@@ -9,7 +9,7 @@ pub_date: 2007-09-16 14:22:04
 public: 'yes'
 slug: more-on-ambiguous-security-standards
 tags:
-- Security
+- security
 template: post.html
 title: More on Ambiguous Security Standards
 

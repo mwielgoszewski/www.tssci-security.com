@@ -9,8 +9,8 @@ pub_date: 2008-05-28 09:41:29
 public: 'yes'
 slug: vbaac-security-and-you
 tags:
-- Security
-- News
+- security
+- news
 template: post.html
 title: VBAAC Security and You
 

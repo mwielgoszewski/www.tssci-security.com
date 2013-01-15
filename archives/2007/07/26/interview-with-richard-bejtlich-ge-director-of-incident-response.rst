@@ -9,8 +9,8 @@ pub_date: 2007-07-26 07:38:56
 public: 'yes'
 slug: interview-with-richard-bejtlich-ge-director-of-incident-response
 tags:
-- People
-- Security
+- people
+- security
 template: post.html
 title: Interview with Richard Bejtlich -- GE Director of Incident Response
 

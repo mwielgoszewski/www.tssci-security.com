@@ -9,9 +9,9 @@ pub_date: 2007-02-25 02:32:18
 public: 'yes'
 slug: tools-are-only-an-abstraction-use-the-right-one
 tags:
-- Tech
-- Intelligence
-- Security
+- tech
+- intelligence
+- security
 template: post.html
 title: Tools are only an abstraction, use the right one
 

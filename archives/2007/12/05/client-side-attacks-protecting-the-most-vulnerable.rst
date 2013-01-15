@@ -9,9 +9,9 @@ pub_date: 2007-12-05 21:44:32
 public: 'yes'
 slug: client-side-attacks-protecting-the-most-vulnerable
 tags:
-- Defense
-- Hacking
-- Security
+- defense
+- hacking
+- security
 template: post.html
 title: 'Client-side attacks: protecting the most vulnerable'
 

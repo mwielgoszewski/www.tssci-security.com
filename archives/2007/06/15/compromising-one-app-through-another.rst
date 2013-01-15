@@ -9,7 +9,7 @@ pub_date: 2007-06-15 07:48:49
 public: 'yes'
 slug: compromising-one-app-through-another
 tags:
-- Security
+- security
 template: post.html
 title: Compromising one app through another
 

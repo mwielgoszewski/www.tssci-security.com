@@ -9,8 +9,8 @@ pub_date: 2007-07-11 13:57:25
 public: 'yes'
 slug: idiocy-in-kernel-land
 tags:
-- Linux
-- Security
+- linux
+- security
 template: post.html
 title: Idiocy in Kernel Land
 

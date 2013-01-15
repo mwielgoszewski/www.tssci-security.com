@@ -9,7 +9,7 @@ pub_date: 2007-11-15 22:52:29
 public: 'yes'
 slug: blacklisting-xss-filter-evasion-and-other-resources
 tags:
-- Security
+- security
 template: post.html
 title: Blacklisting, XSS filter evasion and other resources
 

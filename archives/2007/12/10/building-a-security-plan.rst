@@ -9,13 +9,13 @@ pub_date: 2007-12-10 09:25:19
 public: 'yes'
 slug: building-a-security-plan
 tags:
-- Defense
-- Tech
-- Politics
-- Security
-- Intelligence
-- Work
-- Hacking
+- defense
+- tech
+- politics
+- security
+- intelligence
+- work
+- hacking
 template: post.html
 title: Building a security plan
 

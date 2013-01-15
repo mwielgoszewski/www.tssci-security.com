@@ -9,8 +9,8 @@ pub_date: 2007-01-10 18:30:31
 public: 'yes'
 slug: informationweek-the-site-who-thinks-its-readers-are-dumb
 tags:
-- Security
-- News
+- security
+- news
 template: post.html
 title: InformationWeek, the site who thinks its readers are dumb
 

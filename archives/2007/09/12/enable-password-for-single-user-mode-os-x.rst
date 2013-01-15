@@ -9,8 +9,8 @@ pub_date: 2007-09-12 17:16:07
 public: 'yes'
 slug: enable-password-for-single-user-mode-os-x
 tags:
-- Apple
-- Security
+- apple
+- security
 template: post.html
 title: Enable password for single-user mode (OS X)
 

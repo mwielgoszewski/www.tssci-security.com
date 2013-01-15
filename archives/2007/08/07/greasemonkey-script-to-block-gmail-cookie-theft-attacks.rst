@@ -9,8 +9,8 @@ pub_date: 2007-08-07 10:55:36
 public: 'yes'
 slug: greasemonkey-script-to-block-gmail-cookie-theft-attacks
 tags:
-- Privacy
-- Security
+- privacy
+- security
 template: post.html
 title: Greasemonkey script to block Gmail cookie-theft attacks
 

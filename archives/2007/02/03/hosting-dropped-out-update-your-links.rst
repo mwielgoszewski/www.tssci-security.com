@@ -9,7 +9,7 @@ pub_date: 2007-02-03 02:01:26
 public: 'yes'
 slug: hosting-dropped-out-update-your-links
 tags:
-- Security
+- security
 template: post.html
 title: Hosting dropped out, update your links
 

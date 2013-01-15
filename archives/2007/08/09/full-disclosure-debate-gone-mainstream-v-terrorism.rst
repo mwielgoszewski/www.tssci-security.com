@@ -9,8 +9,8 @@ pub_date: 2007-08-09 15:59:18
 public: 'yes'
 slug: full-disclosure-debate-gone-mainstream-v-terrorism
 tags:
-- Intelligence
-- Politics
+- intelligence
+- politics
 template: post.html
 title: Full-disclosure debate gone mainstream (v. terrorism)
 

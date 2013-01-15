@@ -9,9 +9,9 @@ pub_date: 2008-04-28 23:24:45
 public: 'yes'
 slug: new-blog-over-at-neohapsis-labs
 tags:
-- Privacy
-- Security
-- News
+- privacy
+- security
+- news
 template: post.html
 title: New blog over at Neohapsis Labs
 

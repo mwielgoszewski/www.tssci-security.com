@@ -9,7 +9,7 @@ pub_date: 2007-06-18 09:15:27
 public: 'yes'
 slug: legalized-loan-sharking
 tags:
-- Politics
+- politics
 template: post.html
 title: Legalized loan sharking
 

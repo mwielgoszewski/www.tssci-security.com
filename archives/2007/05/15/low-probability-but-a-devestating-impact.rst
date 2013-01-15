@@ -9,8 +9,8 @@ pub_date: 2007-05-15 09:16:18
 public: 'yes'
 slug: low-probability-but-a-devestating-impact
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: Low probability but a devestating impact
 

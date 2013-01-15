@@ -9,8 +9,8 @@ pub_date: 2007-06-26 19:14:18
 public: 'yes'
 slug: got-pwned-today
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: Got pwned today
 

@@ -9,7 +9,7 @@ pub_date: 2006-08-23 07:03:24
 public: 'yes'
 slug: hello-world
 tags:
-- News
+- news
 template: post.html
 title: My New Site
 

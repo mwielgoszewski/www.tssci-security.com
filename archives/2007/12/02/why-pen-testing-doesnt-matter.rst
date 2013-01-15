@@ -9,10 +9,10 @@ pub_date: 2007-12-02 09:57:44
 public: 'yes'
 slug: why-pen-testing-doesnt-matter
 tags:
-- Defense
-- Tech
-- Hacking
-- Security
+- defense
+- tech
+- hacking
+- security
 template: post.html
 title: Why pen-testing doesn't matter
 

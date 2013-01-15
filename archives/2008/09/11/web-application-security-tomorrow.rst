@@ -9,7 +9,7 @@ pub_date: 2008-09-11 18:39:11
 public: 'yes'
 slug: web-application-security-tomorrow
 tags:
-- Security
+- security
 template: post.html
 title: Web Application Security Tomorrow
 

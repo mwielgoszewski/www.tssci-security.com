@@ -9,8 +9,8 @@ pub_date: 2006-12-08 14:12:17
 public: 'yes'
 slug: lots-of-insiders-lately
 tags:
-- Links
-- Security
+- links
+- security
 template: post.html
 title: Lots of "Insiders" Lately..
 

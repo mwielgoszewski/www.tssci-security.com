@@ -9,9 +9,9 @@ pub_date: 2008-06-15 08:02:00
 public: 'yes'
 slug: what-web-application-security-really-is
 tags:
-- Defense
-- Hacking
-- Security
+- defense
+- hacking
+- security
 template: post.html
 title: What web application security really is
 

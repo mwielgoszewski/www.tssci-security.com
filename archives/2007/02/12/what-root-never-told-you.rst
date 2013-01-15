@@ -9,8 +9,8 @@ pub_date: 2007-02-12 22:34:32
 public: 'yes'
 slug: what-root-never-told-you
 tags:
-- Tech
-- Linux
+- tech
+- linux
 template: post.html
 title: What root never told you
 

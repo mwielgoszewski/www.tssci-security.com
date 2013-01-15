@@ -9,7 +9,7 @@ pub_date: 2007-10-25 22:43:00
 public: 'yes'
 slug: how-to-install-vmware-server-on-ubuntu-710-gutsy-gibbon
 tags:
-- Linux
+- linux
 template: post.html
 title: How to install VMware Server on Ubuntu 7.10 Gutsy Gibbon
 

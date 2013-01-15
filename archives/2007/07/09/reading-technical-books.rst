@@ -9,7 +9,7 @@ pub_date: 2007-07-09 18:31:59
 public: 'yes'
 slug: reading-technical-books
 tags:
-- Books
+- books
 template: post.html
 title: Reading technical books
 

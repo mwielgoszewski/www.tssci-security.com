@@ -9,7 +9,7 @@ pub_date: 2007-04-08 22:00:37
 public: 'yes'
 slug: shmoocon-video-reviews
 tags:
-- Security
+- security
 template: post.html
 title: ShmooCon Video Reviews
 

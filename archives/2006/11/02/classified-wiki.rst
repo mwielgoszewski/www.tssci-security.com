@@ -9,8 +9,8 @@ pub_date: 2006-11-02 18:22:35
 public: 'yes'
 slug: classified-wiki
 tags:
-- Intelligence
-- Security
+- intelligence
+- security
 template: post.html
 title: Classified Wiki?
 

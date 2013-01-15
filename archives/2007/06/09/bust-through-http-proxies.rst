@@ -9,7 +9,7 @@ pub_date: 2007-06-09 11:41:48
 public: 'yes'
 slug: bust-through-http-proxies
 tags:
-- Security
+- security
 template: post.html
 title: Bust through HTTP Proxies
 

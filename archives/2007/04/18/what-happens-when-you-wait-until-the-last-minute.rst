@@ -9,8 +9,8 @@ pub_date: 2007-04-18 12:31:00
 public: 'yes'
 slug: what-happens-when-you-wait-until-the-last-minute
 tags:
-- Tech
-- News
+- tech
+- news
 template: post.html
 title: What happens when you wait until the last minute
 

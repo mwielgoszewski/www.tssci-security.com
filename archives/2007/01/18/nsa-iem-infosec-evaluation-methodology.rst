@@ -9,8 +9,8 @@ pub_date: 2007-01-18 10:37:07
 public: 'yes'
 slug: nsa-iem-infosec-evaluation-methodology
 tags:
-- School
-- Security
+- school
+- security
 template: post.html
 title: 'NSA IEM: INFOSEC Evaluation Methodology'
 

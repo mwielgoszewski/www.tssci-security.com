@@ -9,7 +9,7 @@ pub_date: 2006-11-10 19:21:57
 public: 'yes'
 slug: password-length-shortcomplex
 tags:
-- Security
+- security
 template: post.html
 title: Password Length >= Short/Complex
 

@@ -9,7 +9,7 @@ pub_date: 2007-04-22 13:12:11
 public: 'yes'
 slug: earth-day
 tags:
-- Other
+- other
 template: post.html
 title: Earth Day
 

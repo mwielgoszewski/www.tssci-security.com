@@ -9,8 +9,8 @@ pub_date: 2007-08-13 10:29:18
 public: 'yes'
 slug: desert-code-camp
 tags:
-- Conferences
-- Security
+- conferences
+- security
 template: post.html
 title: Desert Code Camp
 

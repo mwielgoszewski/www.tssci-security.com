@@ -9,7 +9,7 @@ pub_date: 2006-08-30 17:34:55
 public: 'yes'
 slug: bigfoots-wallet-killer-nic
 tags:
-- Tech
+- tech
 template: post.html
 title: Bigfoot's "Wallet-Killer" NIC
 

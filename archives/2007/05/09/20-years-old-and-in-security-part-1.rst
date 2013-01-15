@@ -9,9 +9,9 @@ pub_date: 2007-05-09 14:58:54
 public: 'yes'
 slug: 20-years-old-and-in-security-part-1
 tags:
-- School
-- Security
-- Work
+- school
+- security
+- work
 template: post.html
 title: 20 years old and [in] security (part 1)
 

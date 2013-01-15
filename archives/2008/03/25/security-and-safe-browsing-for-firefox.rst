@@ -9,8 +9,8 @@ pub_date: 2008-03-25 01:20:28
 public: 'yes'
 slug: security-and-safe-browsing-for-firefox
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: Security and safe browsing for Firefox
 

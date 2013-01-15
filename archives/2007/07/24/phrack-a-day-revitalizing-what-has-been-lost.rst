@@ -9,8 +9,8 @@ pub_date: 2007-07-24 08:50:48
 public: 'yes'
 slug: phrack-a-day-revitalizing-what-has-been-lost
 tags:
-- Phrack a Day
-- Hacking
+- phrack a day
+- hacking
 template: post.html
 title: Phrack a Day -- Revitalizing what has been lost
 

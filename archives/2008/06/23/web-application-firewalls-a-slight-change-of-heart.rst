@@ -9,9 +9,9 @@ pub_date: 2008-06-23 10:35:53
 public: 'yes'
 slug: web-application-firewalls-a-slight-change-of-heart
 tags:
-- Defense
-- Security
-- Work
+- defense
+- security
+- work
 template: post.html
 title: 'Web application firewalls: A slight change of heart'
 

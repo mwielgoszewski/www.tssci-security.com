@@ -9,8 +9,8 @@ pub_date: 2007-02-12 22:50:11
 public: 'yes'
 slug: lack-of-quality-conferences-california-rocks
 tags:
-- Tech
-- Other
+- tech
+- other
 template: post.html
 title: (lack of) quality conferences -- California rocks
 

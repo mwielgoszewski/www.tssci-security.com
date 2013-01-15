@@ -9,10 +9,10 @@ pub_date: 2007-12-13 06:34:12
 public: 'yes'
 slug: collaborative-systems-and-ajaxria-security
 tags:
-- Defense
-- Hacking
-- Security
-- Work
+- defense
+- hacking
+- security
+- work
 template: post.html
 title: Collaborative systems and Ajax/RIA security
 

@@ -9,8 +9,8 @@ pub_date: 2009-07-28 17:26:28
 public: 'yes'
 slug: what-makes-a-solid-security-program
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: What makes a solid security program?
 

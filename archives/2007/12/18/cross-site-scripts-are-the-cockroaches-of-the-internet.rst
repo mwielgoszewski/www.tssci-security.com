@@ -9,8 +9,8 @@ pub_date: 2007-12-18 09:14:42
 public: 'yes'
 slug: cross-site-scripts-are-the-cockroaches-of-the-internet
 tags:
-- Hacking
-- Security
+- hacking
+- security
 template: post.html
 title: Cross-site scripts are the cockroaches of the Internet
 

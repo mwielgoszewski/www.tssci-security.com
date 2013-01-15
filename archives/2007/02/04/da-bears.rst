@@ -9,7 +9,7 @@ pub_date: 2007-02-04 15:29:06
 public: 'yes'
 slug: da-bears
 tags:
-- News
+- news
 template: post.html
 title: Da Bears!
 

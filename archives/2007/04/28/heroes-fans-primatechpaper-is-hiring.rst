@@ -9,7 +9,7 @@ pub_date: 2007-04-28 15:25:47
 public: 'yes'
 slug: heroes-fans-primatechpaper-is-hiring
 tags:
-- Other
+- other
 template: post.html
 title: Heroes Fans, PrimaTechPaper is hiring
 

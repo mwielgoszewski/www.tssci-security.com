@@ -9,8 +9,8 @@ pub_date: 2006-10-13 05:06:47
 public: 'yes'
 slug: shmoocon-cfp
 tags:
-- Links
-- Security
+- links
+- security
 template: post.html
 title: ShmooCon CFP
 

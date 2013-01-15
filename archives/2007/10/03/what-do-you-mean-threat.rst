@@ -9,7 +9,7 @@ pub_date: 2007-10-03 18:56:50
 public: 'yes'
 slug: what-do-you-mean-threat
 tags:
-- Security
+- security
 template: post.html
 title: What do you mean threat?
 

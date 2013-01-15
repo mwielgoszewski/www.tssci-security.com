@@ -9,10 +9,10 @@ pub_date: 2007-05-24 10:11:22
 public: 'yes'
 slug: dell-google-toolbar-profit
 tags:
-- Privacy
-- Tech
-- Security
-- News
+- privacy
+- tech
+- security
+- news
 template: post.html
 title: Dell + Google Toolbar... profit??!?!
 

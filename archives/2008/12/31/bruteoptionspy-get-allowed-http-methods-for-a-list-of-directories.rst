@@ -9,8 +9,8 @@ pub_date: 2008-12-31 10:41:14
 public: 'yes'
 slug: bruteoptionspy-get-allowed-http-methods-for-a-list-of-directories
 tags:
-- Code
-- Security
+- code
+- security
 template: post.html
 title: bruteoptions.py -- Get allowed HTTP Methods for a list of directories
 

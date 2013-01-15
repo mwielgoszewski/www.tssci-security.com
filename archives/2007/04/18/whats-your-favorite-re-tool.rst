@@ -9,7 +9,7 @@ pub_date: 2007-04-18 22:38:35
 public: 'yes'
 slug: whats-your-favorite-re-tool
 tags:
-- Security
+- security
 template: post.html
 title: What's your favorite RE tool?
 

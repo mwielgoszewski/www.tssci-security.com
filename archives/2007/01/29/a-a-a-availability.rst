@@ -9,8 +9,8 @@ pub_date: 2007-01-29 22:22:54
 public: 'yes'
 slug: a-a-a-availability
 tags:
-- Tech
-- Security
+- tech
+- security
 template: post.html
 title: A.. A... A... Availability!!!
 

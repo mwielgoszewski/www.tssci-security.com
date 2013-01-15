@@ -9,7 +9,7 @@ pub_date: 2007-05-31 14:26:45
 public: 'yes'
 slug: disable-firefox-automatic-updates
 tags:
-- Security
+- security
 template: post.html
 title: Disable Firefox automatic updates
 

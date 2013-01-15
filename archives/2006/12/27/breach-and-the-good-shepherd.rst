@@ -9,7 +9,7 @@ pub_date: 2006-12-27 17:11:52
 public: 'yes'
 slug: breach-and-the-good-shepherd
 tags:
-- Intelligence
+- intelligence
 template: post.html
 title: Breach and The Good Shepherd
 

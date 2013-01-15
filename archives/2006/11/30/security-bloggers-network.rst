@@ -9,8 +9,8 @@ pub_date: 2006-11-30 23:13:43
 public: 'yes'
 slug: security-bloggers-network
 tags:
-- Links
-- Security
+- links
+- security
 template: post.html
 title: Security Bloggers Network
 

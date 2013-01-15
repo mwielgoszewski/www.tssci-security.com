@@ -9,8 +9,8 @@ pub_date: 2007-08-22 11:17:37
 public: 'yes'
 slug: immaterial-transfers-with-material-consequences
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: Immaterial Transfers with Material Consequences
 

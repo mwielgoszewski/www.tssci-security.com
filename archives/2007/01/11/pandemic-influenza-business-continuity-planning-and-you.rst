@@ -9,7 +9,7 @@ pub_date: 2007-01-11 15:42:23
 public: 'yes'
 slug: pandemic-influenza-business-continuity-planning-and-you
 tags:
-- Security
+- security
 template: post.html
 title: Pandemic Influenza, Business Continuity Planning and You
 

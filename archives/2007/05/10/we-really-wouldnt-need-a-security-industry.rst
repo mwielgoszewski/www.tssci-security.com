@@ -9,7 +9,7 @@ pub_date: 2007-05-10 15:15:05
 public: 'yes'
 slug: we-really-wouldnt-need-a-security-industry
 tags:
-- Security
+- security
 template: post.html
 title: We really wouldn't need a security industry
 

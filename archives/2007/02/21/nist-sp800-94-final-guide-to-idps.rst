@@ -9,7 +9,7 @@ pub_date: 2007-02-21 13:55:57
 public: 'yes'
 slug: nist-sp800-94-final-guide-to-idps
 tags:
-- Security
+- security
 template: post.html
 title: NIST SP800-94 -- Final Guide to (IDPS)
 

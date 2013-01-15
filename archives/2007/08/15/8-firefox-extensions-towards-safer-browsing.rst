@@ -9,8 +9,8 @@ pub_date: 2007-08-15 10:59:38
 public: 'yes'
 slug: 8-firefox-extensions-towards-safer-browsing
 tags:
-- Privacy
-- Security
+- privacy
+- security
 template: post.html
 title: 8 Firefox extensions towards safer browsing
 

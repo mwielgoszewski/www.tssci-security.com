@@ -9,8 +9,8 @@ pub_date: 2008-06-23 21:13:01
 public: 'yes'
 slug: week-of-war-on-wafs-day-1-top-ten-reasons-to-wait-on-wafs
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: 'Week of War on WAF''s: Day 1 -- Top ten reasons to wait on WAF''s'
 

@@ -9,7 +9,7 @@ pub_date: 2008-12-31 23:59:00
 public: 'yes'
 slug: happy-new-year-2009
 tags:
-- Other
+- other
 template: post.html
 title: Happy New Year -- 2009
 

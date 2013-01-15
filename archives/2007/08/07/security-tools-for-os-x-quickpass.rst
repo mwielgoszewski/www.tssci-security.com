@@ -9,8 +9,8 @@ pub_date: 2007-08-07 12:17:29
 public: 'yes'
 slug: security-tools-for-os-x-quickpass
 tags:
-- Apple
-- Security
+- apple
+- security
 template: post.html
 title: Security Tools for OS X -- QuickPass
 

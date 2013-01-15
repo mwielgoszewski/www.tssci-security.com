@@ -9,9 +9,9 @@ pub_date: 2007-06-05 17:23:52
 public: 'yes'
 slug: hacking-techniques-for-law-enforcement-a-good-idea-or-asking-for-trouble
 tags:
-- Privacy
-- Politics
-- Security
+- privacy
+- politics
+- security
 template: post.html
 title: Hacking Techniques for Law Enforcement - A good idea or asking for trouble?
 

@@ -9,7 +9,7 @@ pub_date: 2006-11-28 14:41:45
 public: 'yes'
 slug: insecure-19-released
 tags:
-- Security
+- security
 template: post.html
 title: (IN)SECURE 1.9 Released
 

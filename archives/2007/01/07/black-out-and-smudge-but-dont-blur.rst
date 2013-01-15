@@ -9,7 +9,7 @@ pub_date: 2007-01-07 13:11:56
 public: 'yes'
 slug: black-out-and-smudge-but-dont-blur
 tags:
-- Security
+- security
 template: post.html
 title: Black out and smudge, but don't blur
 

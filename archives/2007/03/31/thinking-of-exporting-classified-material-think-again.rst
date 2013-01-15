@@ -9,10 +9,10 @@ pub_date: 2007-03-31 17:05:41
 public: 'yes'
 slug: thinking-of-exporting-classified-material-think-again
 tags:
-- Defense
-- Tech
-- Politics
-- Security
+- defense
+- tech
+- politics
+- security
 template: post.html
 title: Thinking of Exporting Classified Material? Think Again
 

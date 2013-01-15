@@ -9,7 +9,7 @@ pub_date: 2008-09-26 20:51:40
 public: 'yes'
 slug: owasp-nyc-appsec-2008-and-nysec-recap
 tags:
-- Security
+- security
 template: post.html
 title: OWASP NYC AppSec 2008 and NYSec Recap
 

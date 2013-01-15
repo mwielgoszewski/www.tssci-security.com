@@ -9,7 +9,7 @@ pub_date: 2007-02-21 22:07:23
 public: 'yes'
 slug: mike-murray-on-building-a-sustainable-security-career
 tags:
-- Security
+- security
 template: post.html
 title: Mike Murray on building a sustainable security career
 

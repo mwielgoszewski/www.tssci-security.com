@@ -9,8 +9,8 @@ pub_date: 2006-08-23 17:28:15
 public: 'yes'
 slug: silence-on-the-wire-review
 tags:
-- Books
-- Security
+- books
+- security
 template: post.html
 title: Silence on the Wire Review
 

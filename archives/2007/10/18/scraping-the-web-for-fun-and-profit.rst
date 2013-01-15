@@ -9,7 +9,7 @@ pub_date: 2007-10-18 20:22:14
 public: 'yes'
 slug: scraping-the-web-for-fun-and-profit
 tags:
-- Security
+- security
 template: post.html
 title: Scraping the web for fun and profit
 

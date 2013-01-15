@@ -9,7 +9,7 @@ pub_date: 2007-04-24 14:16:10
 public: 'yes'
 slug: my-first-hack
 tags:
-- Security
+- security
 template: post.html
 title: My first hack
 

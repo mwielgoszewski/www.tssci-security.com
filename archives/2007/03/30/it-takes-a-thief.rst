@@ -9,7 +9,7 @@ pub_date: 2007-03-30 22:54:22
 public: 'yes'
 slug: it-takes-a-thief
 tags:
-- Security
+- security
 template: post.html
 title: It takes a thief
 

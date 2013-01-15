@@ -9,7 +9,7 @@ pub_date: 2007-03-13 17:12:31
 public: 'yes'
 slug: worst-captcha-how-about-an-insulting-one
 tags:
-- Other
+- other
 template: post.html
 title: Worst captcha - how about an insulting one?
 

@@ -9,8 +9,8 @@ pub_date: 2008-01-21 19:37:02
 public: 'yes'
 slug: baby-steps-with-web-application-security-scanners
 tags:
-- Tech
-- Security
+- tech
+- security
 template: post.html
 title: Baby steps with web application security scanners
 

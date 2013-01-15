@@ -9,8 +9,8 @@ pub_date: 2008-03-11 18:14:37
 public: 'yes'
 slug: short-term-defenses-for-web-applications
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: Short-term defenses for web applications
 

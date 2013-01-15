@@ -9,9 +9,9 @@ pub_date: 2007-10-16 15:17:21
 public: 'yes'
 slug: way-to-go-arnold-why-ab-779-was-a-lose-lose-situation-for-small-business
 tags:
-- Privacy
-- Politics
-- Security
+- privacy
+- politics
+- security
 template: post.html
 title: Way to go Arnold -- why AB 779 was a lose-lose situation for small business
 

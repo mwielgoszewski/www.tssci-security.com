@@ -9,8 +9,8 @@ pub_date: 2007-11-23 21:31:04
 public: 'yes'
 slug: formal-methods-and-security
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: Formal Methods and Security
 

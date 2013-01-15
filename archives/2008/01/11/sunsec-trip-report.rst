@@ -9,9 +9,9 @@ pub_date: 2008-01-11 10:46:16
 public: 'yes'
 slug: sunsec-trip-report
 tags:
-- Conferences
-- People
-- Security
+- conferences
+- people
+- security
 template: post.html
 title: SunSec Trip Report
 

@@ -9,7 +9,7 @@ pub_date: 2007-04-12 13:04:50
 public: 'yes'
 slug: you-get-burned-playing-with-fire
 tags:
-- Other
+- other
 template: post.html
 title: You get burned playing with FIRE
 

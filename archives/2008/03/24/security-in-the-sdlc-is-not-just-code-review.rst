@@ -9,8 +9,8 @@ pub_date: 2008-03-24 23:19:08
 public: 'yes'
 slug: security-in-the-sdlc-is-not-just-code-review
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: Security in the SDLC is not just code review
 

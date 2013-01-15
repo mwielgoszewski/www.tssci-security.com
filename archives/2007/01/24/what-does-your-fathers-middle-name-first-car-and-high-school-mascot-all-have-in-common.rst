@@ -9,7 +9,7 @@ pub_date: 2007-01-24 03:33:58
 public: 'yes'
 slug: what-does-your-fathers-middle-name-first-car-and-high-school-mascot-all-have-in-common
 tags:
-- Security
+- security
 template: post.html
 title: What does your father's middle name, first car, and high school mascot all
   have in common?

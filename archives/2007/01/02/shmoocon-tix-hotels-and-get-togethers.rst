@@ -9,7 +9,7 @@ pub_date: 2007-01-02 03:18:50
 public: 'yes'
 slug: shmoocon-tix-hotels-and-get-togethers
 tags:
-- Security
+- security
 template: post.html
 title: ShmooCon Tix, Hotels, and Meets
 

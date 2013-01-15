@@ -9,8 +9,8 @@ pub_date: 2008-06-26 02:15:28
 public: 'yes'
 slug: week-of-war-on-wafs-day-3-language-specific
 tags:
-- Defense
-- Security
+- defense
+- security
 template: post.html
 title: 'Week of War on WAF''s: Day 3 -- Language specific'
 

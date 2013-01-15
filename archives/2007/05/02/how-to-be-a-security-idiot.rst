@@ -9,7 +9,7 @@ pub_date: 2007-05-02 15:14:38
 public: 'yes'
 slug: how-to-be-a-security-idiot
 tags:
-- Security
+- security
 template: post.html
 title: How to Be a Security Idiot
 

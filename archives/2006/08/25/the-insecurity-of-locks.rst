@@ -9,7 +9,7 @@ pub_date: 2006-08-25 05:16:56
 public: 'yes'
 slug: the-insecurity-of-locks
 tags:
-- Security
+- security
 template: post.html
 title: The (In)Security of Locks
 

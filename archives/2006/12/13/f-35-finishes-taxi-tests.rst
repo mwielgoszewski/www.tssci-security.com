@@ -9,7 +9,7 @@ pub_date: 2006-12-13 15:34:53
 public: 'yes'
 slug: f-35-finishes-taxi-tests
 tags:
-- Defense
+- defense
 template: post.html
 title: F-35 Finishes Taxi Tests
 

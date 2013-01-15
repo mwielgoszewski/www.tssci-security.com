@@ -9,9 +9,9 @@ pub_date: 2007-07-19 08:12:38
 public: 'yes'
 slug: firefox-httponly-while-were-at-it
 tags:
-- Privacy
-- Tech
-- Security
+- privacy
+- tech
+- security
 template: post.html
 title: Firefox + httpOnly? While we're at it...
 

@@ -9,9 +9,9 @@ pub_date: 2008-05-29 08:35:26
 public: 'yes'
 slug: software-security-a-retrospective
 tags:
-- Defense
-- Code
-- Security
+- defense
+- code
+- security
 template: post.html
 title: 'Software Security: a retrospective'
 

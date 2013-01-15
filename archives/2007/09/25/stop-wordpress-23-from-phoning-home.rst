@@ -9,7 +9,7 @@ pub_date: 2007-09-25 20:47:46
 public: 'yes'
 slug: stop-wordpress-23-from-phoning-home
 tags:
-- Privacy
+- privacy
 template: post.html
 title: Stop Wordpress 2.3 "phoning home"
 

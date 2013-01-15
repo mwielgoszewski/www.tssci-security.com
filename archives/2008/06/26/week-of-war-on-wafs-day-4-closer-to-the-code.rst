@@ -9,9 +9,9 @@ pub_date: 2008-06-26 10:59:57
 public: 'yes'
 slug: week-of-war-on-wafs-day-4-closer-to-the-code
 tags:
-- Defense
-- People
-- Security
+- defense
+- people
+- security
 template: post.html
 title: 'Week of War on WAF''s: Day 4 -- Closer to the code'
 

@@ -9,7 +9,7 @@ pub_date: 2007-02-27 17:31:56
 public: 'yes'
 slug: infosec-pros-arent-afraid-to-cry-wolf
 tags:
-- Security
+- security
 template: post.html
 title: Infosec pros aren't afraid to cry wolf
 

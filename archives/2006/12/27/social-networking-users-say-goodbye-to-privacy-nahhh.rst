@@ -9,7 +9,7 @@ pub_date: 2006-12-27 05:20:14
 public: 'yes'
 slug: social-networking-users-say-goodbye-to-privacy-nahhh
 tags:
-- Security
+- security
 template: post.html
 title: 'Social Networking Users: Say Goodbye to Privacy! nahhh'
 

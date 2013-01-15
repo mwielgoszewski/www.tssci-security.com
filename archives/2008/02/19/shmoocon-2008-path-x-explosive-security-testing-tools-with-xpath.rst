@@ -9,8 +9,8 @@ pub_date: 2008-02-19 20:51:45
 public: 'yes'
 slug: shmoocon-2008-path-x-explosive-security-testing-tools-with-xpath
 tags:
-- Conferences
-- Security
+- conferences
+- security
 template: post.html
 title: 'ShmooCon 2008 -- Path X: Explosive Security Testing Tools with XPath'
 

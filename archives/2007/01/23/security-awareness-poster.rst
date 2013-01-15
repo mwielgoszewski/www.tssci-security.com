@@ -9,7 +9,7 @@ pub_date: 2007-01-23 15:05:22
 public: 'yes'
 slug: security-awareness-poster
 tags:
-- Security
+- security
 template: post.html
 title: Security Awareness Poster..
 

@@ -9,8 +9,8 @@ pub_date: 2006-08-26 02:41:15
 public: 'yes'
 slug: update-on-what-ive-been-reading-so-far
 tags:
-- Links
-- Books
+- links
+- books
 template: post.html
 title: Update on what I've been reading so far...
 

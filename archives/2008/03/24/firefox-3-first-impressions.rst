@@ -9,11 +9,11 @@ pub_date: 2008-03-24 21:10:55
 public: 'yes'
 slug: firefox-3-first-impressions
 tags:
-- Defense
-- Windows
-- Tech
-- Hacking
-- Security
+- defense
+- windows
+- tech
+- hacking
+- security
 template: post.html
 title: Firefox 3 first impressions
 

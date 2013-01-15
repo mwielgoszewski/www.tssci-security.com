@@ -9,7 +9,7 @@ pub_date: 2007-02-02 13:16:29
 public: 'yes'
 slug: february-month-of-no-bugs-moab-a-dud
 tags:
-- Security
+- security
 template: post.html
 title: 'February: Month of No Bugs - MOAB a dud'
 

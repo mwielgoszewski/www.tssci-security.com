@@ -9,8 +9,8 @@ pub_date: 2007-05-02 13:19:23
 public: 'yes'
 slug: todays-lucky-numbers-are
 tags:
-- Tech
-- News
+- tech
+- news
 template: post.html
 title: Today's Lucky Numbers are...
 

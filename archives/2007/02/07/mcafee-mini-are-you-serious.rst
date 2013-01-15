@@ -9,7 +9,7 @@ pub_date: 2007-02-07 20:25:20
 public: 'yes'
 slug: mcafee-mini-are-you-serious
 tags:
-- Other
+- other
 template: post.html
 title: McAfee Mini -- are you serious??
 

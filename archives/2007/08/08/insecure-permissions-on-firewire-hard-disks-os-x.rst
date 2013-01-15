@@ -9,8 +9,8 @@ pub_date: 2007-08-08 09:16:53
 public: 'yes'
 slug: insecure-permissions-on-firewire-hard-disks-os-x
 tags:
-- Apple
-- Security
+- apple
+- security
 template: post.html
 title: Insecure Permissions on Firewire Hard Disks - OS X
 

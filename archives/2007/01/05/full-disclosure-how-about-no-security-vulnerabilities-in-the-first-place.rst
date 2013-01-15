@@ -9,7 +9,7 @@ pub_date: 2007-01-05 18:13:05
 public: 'yes'
 slug: full-disclosure-how-about-no-security-vulnerabilities-in-the-first-place
 tags:
-- Security
+- security
 template: post.html
 title: 'Full disclosure: How about no security vulnerabilities in the first place?'
 

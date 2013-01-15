@@ -9,9 +9,9 @@ pub_date: 2007-10-18 19:48:24
 public: 'yes'
 slug: toorcon-9-san-diego-eats-treats-tricks-and-drinks
 tags:
-- Conferences
-- People
-- Security
+- conferences
+- people
+- security
 template: post.html
 title: 'ToorCon 9: San Diego -- Eats, Treats, Tricks and Drinks'
 

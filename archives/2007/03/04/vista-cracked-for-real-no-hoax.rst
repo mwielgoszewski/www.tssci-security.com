@@ -9,8 +9,8 @@ pub_date: 2007-03-04 21:46:42
 public: 'yes'
 slug: vista-cracked-for-real-no-hoax
 tags:
-- Tech
-- Security
+- tech
+- security
 template: post.html
 title: Vista cracked for real, no hoax
 

@@ -9,9 +9,9 @@ pub_date: 2008-03-17 09:52:54
 public: 'yes'
 slug: implications-of-the-new-school
 tags:
-- Privacy
-- Books
-- Security
+- privacy
+- books
+- security
 template: post.html
 title: Implications of The New School
 

@@ -9,9 +9,9 @@ pub_date: 2008-03-17 23:14:34
 public: 'yes'
 slug: qualities-of-good-pen-testers
 tags:
-- Hacking
-- Security
-- Work
+- hacking
+- security
+- work
 template: post.html
 title: Qualities of good pen-testers
 

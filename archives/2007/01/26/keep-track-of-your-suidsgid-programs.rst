@@ -9,7 +9,7 @@ pub_date: 2007-01-26 14:35:28
 public: 'yes'
 slug: keep-track-of-your-suidsgid-programs
 tags:
-- Security
+- security
 template: post.html
 title: Keep track of your SUID/SGID programs
 

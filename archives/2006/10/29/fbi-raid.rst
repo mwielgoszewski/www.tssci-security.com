@@ -9,7 +9,7 @@ pub_date: 2006-10-29 14:43:09
 public: 'yes'
 slug: fbi-raid
 tags:
-- News
+- news
 template: post.html
 title: FBI Raid
 

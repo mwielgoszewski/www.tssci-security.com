@@ -9,7 +9,7 @@ pub_date: 2007-03-23 06:03:26
 public: 'yes'
 slug: shmoocon-2007-lab-day-1
 tags:
-- Security
+- security
 template: post.html
 title: ShmooCon 2007 - Lab Day 1
 

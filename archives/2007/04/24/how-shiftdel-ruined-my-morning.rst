@@ -9,7 +9,7 @@ pub_date: 2007-04-24 02:46:46
 public: 'yes'
 slug: how-shiftdel-ruined-my-morning
 tags:
-- Tech
+- tech
 template: post.html
 title: How shift+del ruined my morning
 

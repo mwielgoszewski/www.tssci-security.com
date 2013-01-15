@@ -9,7 +9,7 @@ pub_date: 2008-01-02 16:27:34
 public: 'yes'
 slug: owasp-hartford
 tags:
-- Conferences
+- conferences
 template: post.html
 title: OWASP Hartford
 

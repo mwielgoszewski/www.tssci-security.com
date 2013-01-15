@@ -9,9 +9,9 @@ pub_date: 2008-06-18 05:30:32
 public: 'yes'
 slug: virtualization-is-a-process-not-a-product
 tags:
-- Defense
-- Tech
-- Security
+- defense
+- tech
+- security
 template: post.html
 title: Virtualization is a process, not a product
 

@@ -9,7 +9,7 @@ pub_date: 2007-09-30 14:47:53
 public: 'yes'
 slug: watch-out-for-this-hacker
 tags:
-- Other
+- other
 template: post.html
 title: Watch out for this hacker
 

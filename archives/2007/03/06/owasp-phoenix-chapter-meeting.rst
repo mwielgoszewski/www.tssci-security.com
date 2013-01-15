@@ -9,7 +9,7 @@ pub_date: 2007-03-06 15:56:47
 public: 'yes'
 slug: owasp-phoenix-chapter-meeting
 tags:
-- Security
+- security
 template: post.html
 title: OWASP-Phoenix Chapter Meeting
 

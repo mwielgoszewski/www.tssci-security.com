@@ -9,9 +9,9 @@ pub_date: 2007-02-09 04:06:50
 public: 'yes'
 slug: scale-this-weekend
 tags:
-- Tech
-- Linux
-- Security
+- tech
+- linux
+- security
 template: post.html
 title: SCALE this weekend
 

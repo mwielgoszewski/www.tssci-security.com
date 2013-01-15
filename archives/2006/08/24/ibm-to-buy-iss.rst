@@ -9,9 +9,9 @@ pub_date: 2006-08-24 05:00:37
 public: 'yes'
 slug: ibm-to-buy-iss
 tags:
-- Links
-- Security
-- News
+- links
+- security
+- news
 template: post.html
 title: IBM to buy ISS
 

@@ -9,7 +9,7 @@ pub_date: 2006-12-29 17:07:44
 public: 'yes'
 slug: finding-a-middle-between-html-and-plain-text-e-mail
 tags:
-- Security
+- security
 template: post.html
 title: Finding a middle between HTML and plain text E-mail
 

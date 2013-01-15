@@ -9,8 +9,8 @@ pub_date: 2008-01-20 16:37:34
 public: 'yes'
 slug: sql-injection-fun-vriaa
 tags:
-- Hacking
-- News
+- hacking
+- news
 template: post.html
 title: SQL Injection Fun v.RIAA
 

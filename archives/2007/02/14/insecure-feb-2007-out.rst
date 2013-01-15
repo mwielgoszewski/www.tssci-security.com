@@ -9,7 +9,7 @@ pub_date: 2007-02-14 13:19:35
 public: 'yes'
 slug: insecure-feb-2007-out
 tags:
-- Security
+- security
 template: post.html
 title: (IN)SECURE Feb 2007 Out
 

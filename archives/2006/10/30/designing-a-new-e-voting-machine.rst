@@ -9,9 +9,9 @@ pub_date: 2006-10-30 15:18:47
 public: 'yes'
 slug: designing-a-new-e-voting-machine
 tags:
-- Links
-- Tech
-- Security
+- links
+- tech
+- security
 template: post.html
 title: Designing a New E-Voting Machine
 

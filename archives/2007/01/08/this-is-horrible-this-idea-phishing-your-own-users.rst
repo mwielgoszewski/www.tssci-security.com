@@ -9,7 +9,7 @@ pub_date: 2007-01-08 21:10:45
 public: 'yes'
 slug: this-is-horrible-this-idea-phishing-your-own-users
 tags:
-- Security
+- security
 template: post.html
 title: 'This is horrible, this idea: "Phishing your own users"'
 

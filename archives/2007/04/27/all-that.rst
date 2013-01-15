@@ -9,8 +9,8 @@ pub_date: 2007-04-27 18:27:25
 public: 'yes'
 slug: all-that
 tags:
-- Tech
-- Intelligence
+- tech
+- intelligence
 template: post.html
 title: All That!
 

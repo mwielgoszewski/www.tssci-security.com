@@ -9,8 +9,8 @@ pub_date: 2008-05-05 23:29:35
 public: 'yes'
 slug: lucky-for-nsm-extracting-files-from-tftp-packets-in-wireshark
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: Lucky for NSM -- Extracting files from TFTP packets in Wireshark
 

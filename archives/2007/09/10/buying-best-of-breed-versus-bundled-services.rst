@@ -9,7 +9,7 @@ pub_date: 2007-09-10 12:10:27
 public: 'yes'
 slug: buying-best-of-breed-versus-bundled-services
 tags:
-- Security
+- security
 template: post.html
 title: Buying best of breed versus bundled services
 

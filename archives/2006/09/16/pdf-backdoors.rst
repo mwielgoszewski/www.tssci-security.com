@@ -9,7 +9,7 @@ pub_date: 2006-09-16 22:48:54
 public: 'yes'
 slug: pdf-backdoors
 tags:
-- Security
+- security
 template: post.html
 title: PDF Backdoors
 

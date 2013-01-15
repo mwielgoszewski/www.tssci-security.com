@@ -7,7 +7,7 @@ pub_date: 2008-02-24 18:31:02
 public: 'yes'
 slug: research
 tags:
-- Other
+- other
 template: page.html
 title: Research
 

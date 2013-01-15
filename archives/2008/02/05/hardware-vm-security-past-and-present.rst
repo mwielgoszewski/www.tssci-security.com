@@ -9,10 +9,10 @@ pub_date: 2008-02-05 17:35:04
 public: 'yes'
 slug: hardware-vm-security-past-and-present
 tags:
-- Tech
-- Linux
-- Security
-- Hacking
+- tech
+- linux
+- security
+- hacking
 template: post.html
 title: 'Hardware VM security: past and present'
 

@@ -9,7 +9,7 @@ pub_date: 2007-04-17 01:14:21
 public: 'yes'
 slug: f-secures-question-of-the-day
 tags:
-- Security
+- security
 template: post.html
 title: F-Secure's Question of the day
 

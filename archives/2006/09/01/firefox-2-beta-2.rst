@@ -9,7 +9,7 @@ pub_date: 2006-09-01 21:30:43
 public: 'yes'
 slug: firefox-2-beta-2
 tags:
-- Tech
+- tech
 template: post.html
 title: Firefox 2 Beta 2
 

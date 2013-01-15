@@ -9,7 +9,7 @@ pub_date: 2006-10-12 04:36:42
 public: 'yes'
 slug: iam-checklist
 tags:
-- Security
+- security
 template: post.html
 title: IAM Checklist
 

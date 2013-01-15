@@ -9,7 +9,7 @@ pub_date: 2007-03-20 22:21:09
 public: 'yes'
 slug: phoenix-catalyst-meetup-shmoocon
 tags:
-- Security
+- security
 template: post.html
 title: Phoenix catalyst meetup, ShmooCon
 

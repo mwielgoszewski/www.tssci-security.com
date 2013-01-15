@@ -9,7 +9,7 @@ pub_date: 2007-05-23 21:11:01
 public: 'yes'
 slug: guaging-interest-citysec-hartford-ct
 tags:
-- Security
+- security
 template: post.html
 title: Guaging interest, CitySec -- Hartford, CT
 

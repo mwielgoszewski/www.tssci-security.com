@@ -9,11 +9,11 @@ pub_date: 2008-01-27 22:53:53
 public: 'yes'
 slug: my-other-phone-is-your-iphone
 tags:
-- Privacy
-- Tech
-- Apple
-- Hacking
-- Security
+- privacy
+- tech
+- apple
+- hacking
+- security
 template: post.html
 title: My other phone is your iPhone
 

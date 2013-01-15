@@ -9,7 +9,7 @@ pub_date: 2007-06-17 17:50:01
 public: 'yes'
 slug: notes-for-using-burp-suite-on-ubuntu
 tags:
-- Linux
+- linux
 template: post.html
 title: Notes for using Burp suite on Ubuntu
 

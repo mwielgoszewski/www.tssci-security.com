@@ -9,12 +9,12 @@ pub_date: 2007-10-17 18:43:12
 public: 'yes'
 slug: more-on-google-analytics-now-with-stolen-search-queries
 tags:
-- Tech
-- Security
-- People
-- News
-- Privacy
-- Conferences
+- tech
+- security
+- people
+- news
+- privacy
+- conferences
 template: post.html
 title: 'More on Google Analytics: Now with Stolen Search Queries!'
 

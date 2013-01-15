@@ -9,7 +9,7 @@ pub_date: 2007-03-04 23:59:06
 public: 'yes'
 slug: shmoocon-getting-nearer
 tags:
-- Security
+- security
 template: post.html
 title: ShmooCon getting nearer
 

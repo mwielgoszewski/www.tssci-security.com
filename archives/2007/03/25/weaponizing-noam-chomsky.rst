@@ -9,8 +9,8 @@ pub_date: 2007-03-25 21:46:42
 public: 'yes'
 slug: weaponizing-noam-chomsky
 tags:
-- Intelligence
-- Security
+- intelligence
+- security
 template: post.html
 title: Weaponizing Noam Chomsky
 

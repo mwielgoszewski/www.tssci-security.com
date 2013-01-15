@@ -9,8 +9,8 @@ pub_date: 2008-01-30 11:57:13
 public: 'yes'
 slug: guests-on-network-security-podcast
 tags:
-- People
-- Security
+- people
+- security
 template: post.html
 title: Guests on Network Security Podcast
 

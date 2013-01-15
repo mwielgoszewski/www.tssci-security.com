@@ -9,8 +9,8 @@ pub_date: 2008-06-15 16:19:41
 public: 'yes'
 slug: nmaparsepy-parsing-grepable-nmap-output-to-insert-into-mysql
 tags:
-- Code
-- Security
+- code
+- security
 template: post.html
 title: nmaparse.py -- Parsing grepable Nmap output to insert into MySQL
 

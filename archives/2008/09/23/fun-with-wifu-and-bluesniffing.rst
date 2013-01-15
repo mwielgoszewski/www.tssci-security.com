@@ -9,9 +9,9 @@ pub_date: 2008-09-23 21:52:34
 public: 'yes'
 slug: fun-with-wifu-and-bluesniffing
 tags:
-- Tech
-- Hacking
-- Security
+- tech
+- hacking
+- security
 template: post.html
 title: Fun with WiFu and Bluesniffing
 

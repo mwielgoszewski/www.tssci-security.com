@@ -9,7 +9,7 @@ pub_date: 2007-12-24 16:40:58
 public: 'yes'
 slug: merry-christmas
 tags:
-- Other
+- other
 template: post.html
 title: Merry Christmas!
 

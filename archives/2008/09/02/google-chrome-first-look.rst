@@ -9,9 +9,9 @@ pub_date: 2008-09-02 15:06:55
 public: 'yes'
 slug: google-chrome-first-look
 tags:
-- Tech
-- Security
-- News
+- tech
+- security
+- news
 template: post.html
 title: Google Chrome first look
 

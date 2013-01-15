@@ -9,9 +9,9 @@ pub_date: 2008-01-28 11:20:36
 public: 'yes'
 slug: blog-announcements
 tags:
-- Conferences
-- Security
-- Other
+- conferences
+- security
+- other
 template: post.html
 title: Blog Announcements
 

@@ -9,7 +9,7 @@ pub_date: 2007-09-18 14:19:17
 public: 'yes'
 slug: new-uninformed-journal-vol-8
 tags:
-- Security
+- security
 template: post.html
 title: New Uninformed Journal - Vol 8
 

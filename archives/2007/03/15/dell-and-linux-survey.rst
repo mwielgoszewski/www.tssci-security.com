@@ -9,8 +9,8 @@ pub_date: 2007-03-15 14:47:34
 public: 'yes'
 slug: dell-and-linux-survey
 tags:
-- Tech
-- Linux
+- tech
+- linux
 template: post.html
 title: Dell and Linux - Survey
 

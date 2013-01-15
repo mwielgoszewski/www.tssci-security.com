@@ -9,9 +9,9 @@ pub_date: 2008-10-01 21:30:41
 public: 'yes'
 slug: dont-tell-mom-the-world-is-gonna-end
 tags:
-- People
-- Security
-- News
+- people
+- security
+- news
 template: post.html
 title: Don't Tell Mom the World is Gonna End
 

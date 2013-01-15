@@ -9,7 +9,7 @@ pub_date: 2007-09-21 15:39:14
 public: 'yes'
 slug: pci-dss-questions-left-unanswered
 tags:
-- Security
+- security
 template: post.html
 title: PCI DSS questions left unanswered
 

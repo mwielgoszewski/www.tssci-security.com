@@ -9,8 +9,8 @@ pub_date: 2008-02-17 06:51:12
 public: 'yes'
 slug: path-x-explosive-security-testing
 tags:
-- Conferences
-- Security
+- conferences
+- security
 template: post.html
 title: Path X -- Explosive Security Testing
 

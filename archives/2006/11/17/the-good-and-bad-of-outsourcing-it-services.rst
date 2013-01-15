@@ -9,7 +9,7 @@ pub_date: 2006-11-17 17:22:06
 public: 'yes'
 slug: the-good-and-bad-of-outsourcing-it-services
 tags:
-- Tech
+- tech
 template: post.html
 title: The Good and Bad of Outsourcing IT Services
 

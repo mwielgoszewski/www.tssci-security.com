@@ -9,9 +9,9 @@ pub_date: 2008-02-19 20:26:27
 public: 'yes'
 slug: back-from-dc-shmoocon-2008-recap
 tags:
-- Conferences
-- People
-- Security
+- conferences
+- people
+- security
 template: post.html
 title: Back from D.C. -- ShmooCon 2008 recap
 

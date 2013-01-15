@@ -9,7 +9,7 @@ pub_date: 2007-12-21 09:51:32
 public: 'yes'
 slug: testing-for-randomness-and-predictability-using-burp-sequencer
 tags:
-- Security
+- security
 template: post.html
 title: Testing for randomness and predictability using Burp Sequencer
 

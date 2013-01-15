@@ -9,7 +9,7 @@ pub_date: 2007-06-10 12:41:23
 public: 'yes'
 slug: ubuntu-and-the-vi-editor
 tags:
-- Linux
+- linux
 template: post.html
 title: Ubuntu and the Vi Editor
 

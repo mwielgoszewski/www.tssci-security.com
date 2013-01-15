@@ -9,7 +9,7 @@ pub_date: 2007-12-02 15:42:25
 public: 'yes'
 slug: why-crawling-doesnt-matter
 tags:
-- Security
+- security
 template: post.html
 title: Why crawling doesn't matter
 

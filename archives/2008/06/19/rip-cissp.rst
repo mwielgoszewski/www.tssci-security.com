@@ -9,8 +9,8 @@ pub_date: 2008-06-19 14:57:40
 public: 'yes'
 slug: rip-cissp
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: R.I.P. CISSP
 

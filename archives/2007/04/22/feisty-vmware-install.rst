@@ -9,7 +9,7 @@ pub_date: 2007-04-22 19:18:52
 public: 'yes'
 slug: feisty-vmware-install
 tags:
-- Linux
+- linux
 template: post.html
 title: Feisty VMware install
 

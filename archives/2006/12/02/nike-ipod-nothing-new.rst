@@ -9,7 +9,7 @@ pub_date: 2006-12-02 21:06:10
 public: 'yes'
 slug: nike-ipod-nothing-new
 tags:
-- Security
+- security
 template: post.html
 title: Nike + Ipod... nothing new
 

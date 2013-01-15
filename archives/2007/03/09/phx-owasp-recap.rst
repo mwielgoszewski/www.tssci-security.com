@@ -9,7 +9,7 @@ pub_date: 2007-03-09 17:58:12
 public: 'yes'
 slug: phx-owasp-recap
 tags:
-- Security
+- security
 template: post.html
 title: phx-owasp recap
 

@@ -9,9 +9,9 @@ pub_date: 2009-01-16 00:17:40
 public: 'yes'
 slug: sans-top-25-procurement-language-and-the-owasp-secure-software-contract-annex
 tags:
-- People
-- Politics
-- Security
+- people
+- politics
+- security
 template: post.html
 title: SANS Top 25 Procurement Language and the OWASP Secure Software Contract Annex
 

@@ -9,7 +9,7 @@ pub_date: 2007-09-11 13:10:31
 public: 'yes'
 slug: in-memory-on-this-day
 tags:
-- Other
+- other
 template: post.html
 title: In memory on this day
 

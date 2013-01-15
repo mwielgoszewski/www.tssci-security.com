@@ -9,8 +9,8 @@ pub_date: 2006-10-09 22:59:30
 public: 'yes'
 slug: n-korea-conducts-nuclear-test
 tags:
-- Intelligence
-- News
+- intelligence
+- news
 template: post.html
 title: N Korea Conducts Nuclear Test
 

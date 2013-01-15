@@ -9,8 +9,8 @@ pub_date: 2006-12-15 14:39:38
 public: 'yes'
 slug: economic-espionage-to-benefit-a-foreign-government
 tags:
-- Intelligence
-- News
+- intelligence
+- news
 template: post.html
 title: Economic Espionage to Benefit a Foreign Government
 

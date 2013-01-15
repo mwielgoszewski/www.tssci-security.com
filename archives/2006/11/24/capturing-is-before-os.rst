@@ -9,7 +9,7 @@ pub_date: 2006-11-24 18:07:18
 public: 'yes'
 slug: capturing-is-before-os
 tags:
-- Security
+- security
 template: post.html
 title: Capturing I's before O's
 

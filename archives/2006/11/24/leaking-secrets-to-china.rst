@@ -9,7 +9,7 @@ pub_date: 2006-11-24 23:28:44
 public: 'yes'
 slug: leaking-secrets-to-china
 tags:
-- Security
+- security
 template: post.html
 title: Leaking Secrets to China
 

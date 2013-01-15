@@ -9,8 +9,8 @@ pub_date: 2006-12-04 20:58:26
 public: 'yes'
 slug: control-our-christmas-tree
 tags:
-- Links
-- Tech
+- links
+- tech
 template: post.html
 title: Control our Christmas Tree :)
 

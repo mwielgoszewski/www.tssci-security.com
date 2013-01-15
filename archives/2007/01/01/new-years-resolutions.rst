@@ -9,9 +9,9 @@ pub_date: 2007-01-01 17:27:52
 public: 'yes'
 slug: new-years-resolutions
 tags:
-- Security
-- School
-- News
+- security
+- school
+- news
 template: post.html
 title: New Year's Resolutions
 

@@ -9,9 +9,9 @@ pub_date: 2007-04-04 03:20:19
 public: 'yes'
 slug: what-is-my-favorite-movie
 tags:
-- Privacy
-- Intelligence
-- Security
+- privacy
+- intelligence
+- security
 template: post.html
 title: What is my favorite movie?!!
 

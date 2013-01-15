@@ -9,8 +9,8 @@ pub_date: 2007-02-15 15:59:58
 public: 'yes'
 slug: comment-spam
 tags:
-- Privacy
-- Security
+- privacy
+- security
 template: post.html
 title: Comment Spam
 

@@ -9,8 +9,8 @@ pub_date: 2007-01-18 21:57:47
 public: 'yes'
 slug: thoughts-on-iem-day-1
 tags:
-- School
-- Security
+- school
+- security
 template: post.html
 title: Thoughts on IEM Day 1
 

@@ -9,7 +9,7 @@ pub_date: 2008-07-18 18:27:34
 public: 'yes'
 slug: whos-at-hope
 tags:
-- Conferences
+- conferences
 template: post.html
 title: Who's at HOPE?
 

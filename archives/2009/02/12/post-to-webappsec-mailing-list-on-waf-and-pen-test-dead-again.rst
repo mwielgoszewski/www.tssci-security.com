@@ -9,9 +9,9 @@ pub_date: 2009-02-12 21:51:24
 public: 'yes'
 slug: post-to-webappsec-mailing-list-on-waf-and-pen-test-dead-again
 tags:
-- Defense
-- Politics
-- Security
+- defense
+- politics
+- security
 template: post.html
 title: 'Post to webappsec mailing-list on WAF and pen-test: dead again'
 

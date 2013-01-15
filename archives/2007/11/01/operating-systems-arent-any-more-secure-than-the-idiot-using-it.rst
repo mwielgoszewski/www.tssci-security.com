@@ -9,10 +9,10 @@ pub_date: 2007-11-01 13:37:52
 public: 'yes'
 slug: operating-systems-arent-any-more-secure-than-the-idiot-using-it
 tags:
-- Windows
-- Apple
-- Linux
-- Security
+- windows
+- apple
+- linux
+- security
 template: post.html
 title: Operating systems aren't any more secure than the idiot using it
 

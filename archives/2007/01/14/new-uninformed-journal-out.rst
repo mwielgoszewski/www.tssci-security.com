@@ -9,7 +9,7 @@ pub_date: 2007-01-14 21:37:28
 public: 'yes'
 slug: new-uninformed-journal-out
 tags:
-- Security
+- security
 template: post.html
 title: New Uninformed Journal out
 

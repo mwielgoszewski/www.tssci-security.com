@@ -9,9 +9,9 @@ pub_date: 2008-04-29 08:41:56
 public: 'yes'
 slug: cert-on-securing-your-web-browser
 tags:
-- Defense
-- Privacy
-- Security
+- defense
+- privacy
+- security
 template: post.html
 title: CERT on Securing your web browser
 

@@ -9,7 +9,7 @@ pub_date: 2007-08-02 17:34:33
 public: 'yes'
 slug: phrack-a-day-issue-1
 tags:
-- Phrack a Day
+- phrack a day
 template: post.html
 title: Phrack a Day -- Issue 1
 

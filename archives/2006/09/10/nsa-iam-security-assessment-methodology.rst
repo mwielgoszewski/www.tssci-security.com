@@ -9,8 +9,8 @@ pub_date: 2006-09-10 08:00:57
 public: 'yes'
 slug: nsa-iam-security-assessment-methodology
 tags:
-- School
-- Security
+- school
+- security
 template: post.html
 title: NSA IAM... Security Assessment Methodology
 

@@ -9,8 +9,8 @@ pub_date: 2007-04-17 09:44:00
 public: 'yes'
 slug: hacking-pricey-fpgas
 tags:
-- Tech
-- Security
+- tech
+- security
 template: post.html
 title: Hacking pricey FPGAs
 

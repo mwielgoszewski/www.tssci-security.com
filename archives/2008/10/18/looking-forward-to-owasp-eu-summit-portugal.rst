@@ -9,8 +9,8 @@ pub_date: 2008-10-18 10:58:50
 public: 'yes'
 slug: looking-forward-to-owasp-eu-summit-portugal
 tags:
-- Conferences
-- Security
+- conferences
+- security
 template: post.html
 title: Looking forward to OWASP EU Summit Portugal
 

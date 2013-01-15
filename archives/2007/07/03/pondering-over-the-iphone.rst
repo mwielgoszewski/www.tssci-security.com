@@ -9,8 +9,8 @@ pub_date: 2007-07-03 22:05:45
 public: 'yes'
 slug: pondering-over-the-iphone
 tags:
-- Tech
-- Security
+- tech
+- security
 template: post.html
 title: Pondering over the iPhone
 

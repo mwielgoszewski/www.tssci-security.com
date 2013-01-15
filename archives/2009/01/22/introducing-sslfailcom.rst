@@ -9,7 +9,7 @@ pub_date: 2009-01-22 09:11:00
 public: 'yes'
 slug: introducing-sslfailcom
 tags:
-- Security
+- security
 template: post.html
 title: Introducing SSLFail.com
 

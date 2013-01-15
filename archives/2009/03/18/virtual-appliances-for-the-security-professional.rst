@@ -9,9 +9,9 @@ pub_date: 2009-03-18 18:35:56
 public: 'yes'
 slug: virtual-appliances-for-the-security-professional
 tags:
-- Defense
-- Hacking
-- Security
+- defense
+- hacking
+- security
 template: post.html
 title: Virtual appliances for the security professional
 

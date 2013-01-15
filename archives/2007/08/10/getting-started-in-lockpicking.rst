@@ -9,7 +9,7 @@ pub_date: 2007-08-10 08:45:46
 public: 'yes'
 slug: getting-started-in-lockpicking
 tags:
-- Lockpicking
+- lockpicking
 template: post.html
 title: Getting started in lockpicking
 

@@ -9,8 +9,8 @@ pub_date: 2007-04-26 19:17:00
 public: 'yes'
 slug: security-internships
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: Security Internships
 

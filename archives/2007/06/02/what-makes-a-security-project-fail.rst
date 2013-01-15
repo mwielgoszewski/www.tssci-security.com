@@ -9,8 +9,8 @@ pub_date: 2007-06-02 23:27:06
 public: 'yes'
 slug: what-makes-a-security-project-fail
 tags:
-- Security
-- Work
+- security
+- work
 template: post.html
 title: What makes a security project fail?
 

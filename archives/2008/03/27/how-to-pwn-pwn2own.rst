@@ -9,12 +9,12 @@ pub_date: 2008-03-27 17:15:22
 public: 'yes'
 slug: how-to-pwn-pwn2own
 tags:
-- Windows
-- Security
-- Apple
-- Linux
-- Conferences
-- Hacking
+- windows
+- security
+- apple
+- linux
+- conferences
+- hacking
 template: post.html
 title: How to pwn PWN2OWN
 

@@ -9,7 +9,7 @@ pub_date: 2006-11-10 17:16:43
 public: 'yes'
 slug: gaim-200beta5
 tags:
-- Tech
+- tech
 template: post.html
 title: Gaim 2.0.0beta5
 
