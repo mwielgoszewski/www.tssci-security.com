@@ -53,11 +53,23 @@ simple to add "ErrorLog syslog:user" into the httpd.conf file, but this
 only logs error messages, not authentication/access\_log messages. The
 book gives two prescriptions, one using "AccessLog "\|/usr/bin/logger"
 combined" if your OS supports the logger command properly. The other is
-to run a custom log message through a Perl script, as seen below:
+to run a custom log message through a Perl script, as seen below::
 
-``CustomLog |/usr/local/apache/bin/apache_syslog combined``
+    CustomLog |/usr/local/apache/bin/apache_syslog combined
 
-``cat > apache_syslog #!/usr/bin/perl use Sys::Syslog qw( :DEFAULT setlogsock ); setlogsock('unix'); openlog('apache', 'cons', 'pid', 'user'); while ($log = <STDIN>) { syslog('notice', $log); } closelog;``
+.. sourcecode:: perl
+
+    #!/usr/bin/perl
+    use Sys::Syslog
+    qw( :DEFAULT setlogsock );
+    setlogsock('unix');
+    openlog('apache', 'cons', 'pid', 'user');
+
+    while ($log = <STDIN>) {
+        syslog('notice', $log);
+    }
+
+    closelog;
 
 Microsoft IIS will need to go through the Event Log, which can be
 converted to syslog messages using a third-party software package such
@@ -127,9 +139,10 @@ those purposes)
 
 Simply use Scalp by running it as follows (keep in mind there may be
 false positives with regards to the attack type, though it is very good
-at pulling attack queries from the log):
+at pulling attack queries from the log)::
 
-``./scalp.py --log access_log --filters ./default_filter.xml --html --tough --exhaustive``
+    ./scalp.py --log access_log --filters ./default_filter.xml \
+    --html --tough --exhaustive
 
 `Arshan Dabirsiaghi <http://i8jesus.com/?p=33>`_ recently released
 `OWASP
