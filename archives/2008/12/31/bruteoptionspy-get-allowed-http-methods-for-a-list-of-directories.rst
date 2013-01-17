@@ -34,9 +34,8 @@ a tool like `OWASP
 DirBuster <http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project>`_.
 
 Using the tool is simple, just specify the site FQDN to scan and give it
-a file as a second argument.
+a file as a second argument.::
 
-::
     $ ./bruteoptions.py
     ./bruteoptions.py <url> <list of directories>``
 
