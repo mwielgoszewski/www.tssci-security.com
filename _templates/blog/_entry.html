@@ -1,5 +1,5 @@
 <section id="post-{{ entry.config.post_id }}" class="post">
-          <h1><a href="{{ link_to('page', slug=entry.slug) }}">{{ entry.title }}</a></h1>
+          <h1><a href="{{ link_to('page', slug=entry.slug) }}/">{{ entry.title }}</a></h1>
           {{ entry['program'].get_fragments()['fragment'] | striptags | truncate(end='[...]') }}
 
           <p class="post-metadata">Posted by {{ entry.config.author }} {% if entry.config.pub_date -%} on {{ format_date(entry.config.pub_date, format='full') }}{%- endif %}
@@ -11,5 +11,4 @@
           {%- endif -%}.<br/>
             <a href="{{ link_to('page', slug=entry.slug) }}/#disqus_thread" data-disqus-identifier="{{ entry.config.disqus_id if entry.config.disqus_id else entry.config.slug }}"></a>
           </p>
-
-        </section><!-- end post-{{ entry.config.post_id }} -->
+        </section>
