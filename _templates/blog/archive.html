@@ -1,16 +1,15 @@
 {% extends "layout.html" %}
 {% block title %}Blog Archive | {% endblock %}
 {% block container %}
-        <div id="content">
-        {%- for entry in archive %}
-            <h1>Archives for the year <a href="{{ link_to('blog_archive', year=entry.year) }}" title="Archives for the year {{ entry.year }}">{{ entry.year }}</a></h1>
-            <ul>
-              {%- for subentry in entry.months %}
-              <li><a href="{{ link_to('blog_archive', year=entry.year,
-                                      month=subentry.month) }}">{{ subentry.month_name }}</a>
-                                    — {{ subentry.count }} {{ 'entry' if subentry.count == 1 else 'entries' }}</li>
-              {%- endfor %}
-            </ul>
-        {% endfor %}
-        </div><!-- end content -->
+    <article>
+    {%- for entry in archive %}
+      <h1>Archives for the year <a href="{{ link_to('blog_archive', year=entry.year) }}" title="Archives for the year {{ entry.year }}">{{ entry.year }}</a></h1>
+      <ul>
+        {%- for subentry in entry.months %}
+        <li><a href="{{ link_to('blog_archive', year=entry.year,
+                                month=subentry.month) }}">{{ subentry.month_name }}</a>— {{ subentry.count }} {{ 'entry' if subentry.count == 1 else 'entries' }}</li>
+        {%- endfor %}
+      </ul>
+    {% endfor %}
+    </article>
 {% endblock container %}

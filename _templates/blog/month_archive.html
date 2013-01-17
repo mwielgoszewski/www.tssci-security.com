@@ -1,10 +1,10 @@
 {% extends "layout.html" %}
 {% block title %}Archive for {{ entry.month_name }}, {{ entry.year }} | {% endblock %}
 {% block container %}
-        <div id="content">
-          <h1>Archive for {{ entry.month_name }}, {{ entry.year }}</a></h1>
-        {%- for entry in entry.entries %}
-          {% include "blog/_entry.html" %}
-        {% endfor %}
-        </div><!-- end content -->
+    <article>
+      <h1>Archive for {{ entry.month_name }}, {{ entry.year }}</a></h1>
+  {%- for entry in entry.entries %}
+      {% include "blog/_entry.html" %}
+  {% endfor %}
+    </article>
 {% endblock container %}

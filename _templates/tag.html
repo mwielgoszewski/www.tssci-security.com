@@ -1,10 +1,10 @@
 {% extends "layout.html" %}
 {% block title %}Archive for {{ tag.name | capitalize }} | {% endblock %}
 {% block container %}
-        <div id="content">
-          <h1>Archive for {{ tag.name | capitalize }}</a></h1>
-        {%- for entry in entries | sort(attribute='pub_date', reverse=True) %}
-          {% include "blog/_entry.html" %}
-        {% endfor %}
-        </div><!-- end content -->
+    <article>
+      <h1>Archive for {{ tag.name | capitalize }}</a></h1>
+    {%- for entry in entries | sort(attribute='pub_date', reverse=True) %}
+      {% include "blog/_entry.html" %}
+    {% endfor %}
+    </article>
 {% endblock container %}

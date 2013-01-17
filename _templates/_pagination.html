@@ -1,13 +1,13 @@
 <p class="pagination">
   {%- if pagination.has_prev %}
-            <a href="{{ link_to(pagination.url_key, page=pagination.page - 1) }}">&laquo; Newer entries</a>
+        <a href="{{ link_to(pagination.url_key, page=pagination.page - 1) }}">&laquo; Newer entries</a>
   {%- else %}
-            <span class="disabled">&laquo; Newer entries</span>
+        <span class="disabled">&laquo; Newer entries</span>
   {%- endif %}{#
-            #} — <strong>{{ pagination.page }}</strong> — {#
+        #} — <strong>{{ pagination.page }}</strong> — {#
   #}{% if pagination.has_next -%}
-            <a href="{{ link_to(pagination.url_key, page=pagination.page + 1) }}">Older entries &raquo;</a>
+        <a href="{{ link_to(pagination.url_key, page=pagination.page + 1) }}">Older entries &raquo;</a>
   {%- else -%}
-            <span class="disabled">Older entries &raquo;</span>
+        <span class="disabled">Older entries &raquo;</span>
   {%- endif %}
-          </p>
+      </p>

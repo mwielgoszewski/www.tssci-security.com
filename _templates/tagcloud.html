@@ -1,16 +1,16 @@
 {% extends "layout.html" %}
 {% block title %}Categories | {% endblock title %}
 {% block container %}
-        <div id="content">
-          <h1>Categories</h1>
-          <ul class="tagcloud">
-          {%- for tag in get_tags(limit=50) %}
-            <li>
-              <a href="{{ link_to('tag', tag=tag.name) }}"
-                 title="View all posts filed under {{ tag.name | capitalize }}"
-                 style="font-size: {{tag.size }}%">{{ tag.name | capitalize }}</a>
-            </li>
-          {%- endfor %}
-          </ul>
-        </div><!-- end content -->
+    <article>
+      <h1>Categories</h1>
+      <ul class="tagcloud">
+      {%- for tag in get_tags(limit=50) %}
+        <li>
+          <a title="View all posts filed under {{ tag.name | capitalize }}"
+             href="{{ link_to('tag', tag=tag.name) }}"
+             style="font-size: {{tag.size }}%">{{ tag.name | capitalize }}</a>
+        </li>
+      {%- endfor %}
+      </ul>
+    </article>
 {% endblock container %}
