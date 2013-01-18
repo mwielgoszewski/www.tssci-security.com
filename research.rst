@@ -14,6 +14,31 @@ title: Research
 Research
 ########
 
+A Breath of Fresh Burp: Extending Burp the Python Way
+=====================================================
+`PDF <https://speakerdeck.com/marcinw/a-breath-of-fresh-burp>`__
+\| ODP \| PPT \| Video \| Paper
+
+**Abstract**: Many of us rely on Burp Suite as our go-to tool for web
+application security testing. Burp has made the lives of many pentesters
+easier as it was developed with web app security testing in mind. However,
+Burp doesn’t always do what you want out of the box, and so it exposes an
+Extender API for anyone to willing enough to write plugins in Java.
+ 
+Having to write Java code aside, developing plugins can be a painstaking
+process due to having to restart the Java Virtual Machine every time the
+plugin code is modified.
+ 
+In this talk we’ll review the various framework APIs available to pentesters
+looking to get the most out of Burp using Jython. We’ll also discuss a new
+way of writing plugins for Burp, without having to write a single line of
+Java and without having to restart Burp every time a plugin is modified.
+ 
+Code and example use cases will be presented that’ll show how using Jython
+and Burp can make you a more effective web application pentester.
+
+* 2012-11-14 – iSEC Open Security Forum NYC
+
 Constricting the Web: Offensive Python for Web Hackers
 ======================================================
 
