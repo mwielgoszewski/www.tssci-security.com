@@ -42,7 +42,7 @@ Loading the Jython Burp API
 
 If you haven't already done so, download the `Jython Burp API`_. Then, all
 you need to do (provided you're running Burp 1.5.04 or later), is add 
-*jython-burp-api/Lib/burp_extender.py* as a Python extension to Burp:
+``jython-burp-api/Lib/burp_extender.py`` as a Python extension to Burp:
 
 .. image:: /static/img/archive/2013/02/14/load_burp_extension.png
     :align: center
@@ -75,7 +75,7 @@ requests that may contain a specific header or string in the response body.
     :target: /static/img/archive/2013/02/14/jython_console.png 
 
 I added a right-click context menu item so you could select specific requests
-and send them to the *items* variable, accessible from the console.
+and send them to the ``items`` variable, accessible from the console.
 
 .. image:: /static/img/archive/2013/02/14/console_menu.png
     :align: center
