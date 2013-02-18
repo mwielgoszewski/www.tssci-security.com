@@ -21,6 +21,7 @@ modules.analytics.url: tssci-security.com
 modules.blog.mainmenu:
     - ['/', 'Home']
     - ['/about/', 'About']
+    - ['/projects/', 'Projects']
     - ['/research/', 'Research']
 modules.tags.tag_url: '/archives/category/<tag>/'
 modules.tags.tag_feed_url: '/archives/category/<tag>/feed.atom'
