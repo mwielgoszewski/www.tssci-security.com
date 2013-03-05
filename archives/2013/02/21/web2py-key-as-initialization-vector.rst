@@ -1,6 +1,6 @@
 author: Marcin
 disqus_id: 744897b1-f365-4776-9625-02c9f5a03ef8
-disqus_url: http://www.tssci-security.com/archives/2013/03/21/web2py-key-as-initialization-vector/
+disqus_url: http://www.tssci-security.com/archives/2013/02/21/web2py-key-as-initialization-vector/
 parent: 0
 post_id: 472
 post_type: post

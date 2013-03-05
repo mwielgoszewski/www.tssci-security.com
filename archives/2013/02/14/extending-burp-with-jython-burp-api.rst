@@ -1,6 +1,6 @@
 author: Marcin
 disqus_id: e773f1ad-3a54-4baa-8b8a-9f3fc5d42523
-disqus_url: http://www.tssci-security.com/archives/2013/03/18/extending-burp-with-jython-burp-api/
+disqus_url: http://www.tssci-security.com/archives/2013/02/18/extending-burp-with-jython-burp-api/
 parent: 0
 post_id: 470
 post_type: post
