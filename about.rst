@@ -10,6 +10,8 @@ public: 'yes'
 slug: about
 template: page.html
 title: About
+summary: |
+  About Marcin Wielgoszewski
 
 About
 #####

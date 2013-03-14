@@ -11,6 +11,9 @@ tags:
 - security
 template: post.html
 title: Extending Burp with Jython Burp API
+summary: |
+  Jython Burp API is a Burp extension that allows pentesters to easily
+  develop Burp extensions in Jython using Pythonic APIs.
 
 Extending Burp with Jython Burp API
 ###################################

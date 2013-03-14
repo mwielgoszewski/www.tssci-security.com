@@ -11,6 +11,9 @@ tags:
 - security
 template: post.html
 title: 'web2py: Key as Initialization Vector'
+summary: |
+  web2py used the secret key as the initialization vector when encrypting
+  session cookies, we explain why this is bad.
 
 web2py: Key as Initialization Vector
 ####################################

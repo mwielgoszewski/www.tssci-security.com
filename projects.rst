@@ -7,6 +7,8 @@ public: 'yes'
 slug: projects
 template: page.html
 title: Projects
+summary: |
+  Some projects by Marcin Wielgoszewski: Jython Burp API, python-paddingoracle
 
 Projects
 ########

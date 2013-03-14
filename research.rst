@@ -10,6 +10,8 @@ tags:
 - other
 template: page.html
 title: Research
+summary: |
+  Presentations and Research by Marcin Wielgoszewski
 
 Research
 ########
