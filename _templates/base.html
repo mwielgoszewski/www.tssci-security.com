@@ -1,4 +1,5 @@
 {% extends "layout.html" %}
+{%- if config.summary %}{% block description %}{{ config.summary }}{% endblock %}{%- endif %}
 {% block title %}{{ rst.title }} | {% endblock title %}
 {% block container %}
     <article>
