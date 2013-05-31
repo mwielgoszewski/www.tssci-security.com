@@ -11,7 +11,7 @@ modules.blog.archive_url: '/archives/'
 modules.blog.year_archive_url: '/archives/<year>/'
 modules.blog.month_archive_url: '/archives/<year>/<month>/'
 modules.blog.feed_url: '/feed.atom'
-modules.blog.sitemap_url: '/861357e24d84cfa8997124173926437a0eac8fbc.html'
+modules.blog.sitemap_url: '/861357e24d84cfa8997124173926437a0eac8fbc.txt'
 feed.name: tssci-security
 feed.subtitle: top secret/secure computing information
 modules.disqus.shortname: tssci-security-s0
