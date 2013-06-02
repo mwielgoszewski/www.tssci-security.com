@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block postmeta %}
-        <p class="post-metadata">Posted by {{ config.author }} {% if ctx.pub_date -%} on {{ format_date(ctx.pub_date, format='full') }}{%- endif %}
+        <p class="post-metadata">Posted by {{ config.author | title }} {% if ctx.pub_date -%} on {{ format_date(ctx.pub_date, format='full') }}{%- endif %}
         {%- if ctx.tags %} in {%- for tag in ctx.tags|sort(case_sensitive=true) %}
           {%- if not loop.first and not loop.last %}, {% endif -%}
           {%- if loop.last and not loop.first %} and {% endif %}

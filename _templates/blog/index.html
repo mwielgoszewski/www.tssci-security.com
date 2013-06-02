@@ -6,7 +6,7 @@
       <section id="post-{{ entry.config.post_id }}" class="post">
         <h1><a href="{{ link_to('page', slug=entry.slug) }}/">{{ entry.title }}</a></h1>
         {{ entry.render_contents() }}
-        <p class="post-metadata">Posted by {{ entry.config.author }} {% if entry.config.pub_date -%} on {{ format_date(entry.config.pub_date, format='full') }}{%- endif %}
+        <p class="post-metadata">Posted by {{ entry.config.author | title }} {% if entry.config.pub_date -%} on {{ format_date(entry.config.pub_date, format='full') }}{%- endif %}
         {%- if entry.config.tags %} in {%- for tag in entry.config.tags|sort(case_sensitive=true) %}
           {%- if not loop.first and not loop.last %}, {% endif -%}
           {%- if loop.last and not loop.first %} and {% endif %}
