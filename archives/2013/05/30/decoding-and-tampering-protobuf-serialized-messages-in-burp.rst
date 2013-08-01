@@ -24,9 +24,9 @@ descriptor`_ out of the application. Otherwise, you're left dumb-fuzzing the
 protocol and never diving into the application itself.
 
 Out of necessity, I wrote a Burp Extension that would decode raw protobuf
-messages even when a .proto was not available. I added features to it such
-that it you can load a .proto to allow decoding, editing, and encoding of
-messages. In my extension, you can also manually specify what message type to
+messages even when a .proto was not available. After loading a .proto, the
+extension features the ability to modify and tamper with protobuf messages.
+In my extension, you can also manually specify what message type to
 deserialize a given protobuf message as. You can download my extension at
 
 * `burp-protobuf-decoder`_
