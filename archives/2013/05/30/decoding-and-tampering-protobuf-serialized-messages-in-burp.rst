@@ -1,6 +1,6 @@
 author: marcin
 disqus_id: 79dfad55-75ec-4d0b-a889-d3cef2bb62f3
-disqus_url: http://www.tssci-security.com/archives/2013/05/30/decoding-and-tampering-protobuf-serialized-messages-in-burp.html
+disqus_url: http://www.tssci-security.com/archives/2013/05/30/decoding-and-tampering-protobuf-serialized-messages-in-burp/
 parent: 0
 post_id: 475
 post_type: post
