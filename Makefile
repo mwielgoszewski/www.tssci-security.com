@@ -14,10 +14,7 @@ JS_FILES = $(filter-out %-min.js,$(wildcard \
 ))
 
 # Command to run to execute the YUI Compressor.
-YUI_COMPRESSOR = java -jar _programs/yuicompressor-2.4.8pre.jar
- 
-# Flags to pass to the YUI Compressor for both CSS and JS.
-YUI_COMPRESSOR_FLAGS = --charset utf-8 --verbose
+YUI_COMPRESSOR = python -m csscompressor
  
 CSS_MINIFIED = $(CSS_FILES:.css=-min.css)
 JS_MINIFIED = $(JS_FILES:.js=-min.js)
@@ -42,12 +39,12 @@ minify-js: $(JS_FILES) $(JS_MINIFIED)
  
 %-min.css: %.css
 	@echo '==> Minifying $<'
-	$(YUI_COMPRESSOR) $(YUI_COMPRESSOR_FLAGS) --type css $< >$@
+	$(YUI_COMPRESSOR) $< -o $@
 	@echo
  
 %-min.js: %.js
 	@echo '==> Minifying $<'
-	$(YUI_COMPRESSOR) $(YUI_COMPRESSOR_FLAGS) --type js $< >$@
+	$(YUI_COMPRESSOR) $< -o $@
 	@echo
 
 serve:
