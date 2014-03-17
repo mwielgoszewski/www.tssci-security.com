@@ -33,6 +33,8 @@ in the annual `CSAW <http://www.poly.edu/csaw2012>`_ hosted by NYU-Poly.
   <https://twitter.com/marcinw>`_
 * `GitHub
   <https://github.com/mwielgoszewski>`_
+* `Keybase
+  <https://keybase.io/marcin>`_
 
 Disclaimer
 ~~~~~~~~~~
