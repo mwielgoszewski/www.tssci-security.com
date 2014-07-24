@@ -16,6 +16,39 @@ summary: |
 Research
 ########
 
+Recon Recon: A tale of reversing the Android-based Snow2 HUD
+============================================================
+
+**Abstract**: You might be thinking, oh no another Android talk. Well,
+yes and no.
+
+The way we interact with every day technology is changing. See the
+Internet of Things (IoT). The time is already now, and this is just a
+prequel to some of the things we're beginning to see.
+
+For me, it all started this past winter. I managed to convince my
+employer to buy me a new pair of snowboarding goggles, as the focus of
+my \*cough\* research \*cough\*. But these aren't just any pair of
+goggles; these are the Smith I/O's outfitted with a Recon Snow2 Heads-
+Up Display (HUD) that reads data from multiple sensors to display GPS
+coordinates, altitude, speed, barometric pressure, and more. On top of
+that, they can pair with your Android or iPhone to receive incoming
+SMS, voice calls, and sync info about currently playing music. It also
+has onboard WiFi and Bluetooth capabilities, and developers are
+encouraged to write 3rd party apps for it!
+
+In researching these goggles, I found multiple vulnerabilities that
+lead to getting root and compromising application data. The goal of
+this talk is to walk the audience through my methodology and process
+in assessing the attack surface and identifying security
+vulnerabilities in the device. Along the way, I had to reverse various
+applications, write my own applications, analyze BTLE communications,
+reverse iOS and Android smartphone applications, and dissect a Google
+Chrome plugin. By attending this talk, you'll gain a greater
+understanding of how to assess the security of every day "things".
+
+* 2014-06-06 – `SummerC0n 2014 <http://www.summercon.org/>`_
+
 A Breath of Fresh Burp: Extending Burp the Python Way
 =====================================================
 `PDF <https://speakerdeck.com/marcinw/a-breath-of-fresh-burp>`__
