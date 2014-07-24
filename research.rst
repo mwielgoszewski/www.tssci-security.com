@@ -29,8 +29,8 @@ prequel to some of the things we're beginning to see.
 For me, it all started this past winter. I managed to convince my
 employer to buy me a new pair of snowboarding goggles, as the focus of
 my \*cough\* research \*cough\*. But these aren't just any pair of
-goggles; these are the Smith I/O's outfitted with a Recon Snow2 Heads-
-Up Display (HUD) that reads data from multiple sensors to display GPS
+goggles; these are the Smith I/O's outfitted with a Recon Snow2 Heads-Up
+Display (HUD) that reads data from multiple sensors to display GPS
 coordinates, altitude, speed, barometric pressure, and more. On top of
 that, they can pair with your Android or iPhone to receive incoming
 SMS, voice calls, and sync info about currently playing music. It also
